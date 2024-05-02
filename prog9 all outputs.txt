@@ -1,0 +1,3214 @@
+---------------------------------------
+
+---------------------------------------
+ From City:      [0]ANAHEIM (AN), population 1273000, elevation 310
+ To City:        [0]ANAHEIM (AN), population 1273000, elevation 310
+
+ The shortest distance from ANAHEIM to ANAHEIM is 0
+ through the route: ANAHEIM [0]
+
+---------------------------------------
+---------------------------------------
+ From City:      [0]ANAHEIM (AN), population 1273000, elevation 310
+ To City:        [1]BAKERSFIELD (BK), population 31100, elevation 390
+
+ The shortest distance from ANAHEIM to BAKERSFIELD is 225
+ through the route: ANAHEIM [0] -> VICTORVILLE [18] -> CHINO [4] -> GRPVE [8] -> ISABELLA [10] -> BAKERSFIELD [1]
+
+---------------------------------------
+---------------------------------------
+ From City:      [0]ANAHEIM (AN), population 1273000, elevation 310
+ To City:        [2]BOSSTOWN (BO), population 790, elevation 10
+
+ The shortest distance from ANAHEIM to BOSSTOWN is 265
+ through the route: ANAHEIM [0] -> BREA [3] -> VINING [11] -> BOSSTOWN [2]
+
+---------------------------------------
+---------------------------------------
+ From City:      [0]ANAHEIM (AN), population 1273000, elevation 310
+ To City:        [3]BREA (BR), population 529000, elevation 1242
+
+ The shortest distance from ANAHEIM to BREA is 212
+ through the route: ANAHEIM [0] -> BREA [3]
+
+---------------------------------------
+---------------------------------------
+ From City:      [0]ANAHEIM (AN), population 1273000, elevation 310
+ To City:        [4]CHINO (CH), population 52200, elevation 1381
+
+ The shortest distance from ANAHEIM to CHINO is 110
+ through the route: ANAHEIM [0] -> VICTORVILLE [18] -> CHINO [4]
+
+---------------------------------------
+---------------------------------------
+ From City:      [0]ANAHEIM (AN), population 1273000, elevation 310
+ To City:        [5]EDWIN (ED), population 12, elevation 8719
+
+ The shortest distance from ANAHEIM to EDWIN is 254
+ through the route: ANAHEIM [0] -> VICTORVILLE [18] -> CHINO [4] -> RIVERA [15] -> TORRANCE [17] -> GARDENA [7] -> EDWIN [5]
+
+---------------------------------------
+---------------------------------------
+ From City:      [0]ANAHEIM (AN), population 1273000, elevation 310
+ To City:        [6]IRWIN (FI), population 4120, elevation 932
+
+ The shortest distance from ANAHEIM to IRWIN is 262
+ through the route: ANAHEIM [0] -> VICTORVILLE [18] -> CHINO [4] -> GRPVE [8] -> IRWIN [6]
+
+---------------------------------------
+---------------------------------------
+ From City:      [0]ANAHEIM (AN), population 1273000, elevation 310
+ To City:        [7]GARDENA (GD), population 653210, elevation 674
+
+ The shortest distance from ANAHEIM to GARDENA is 249
+ through the route: ANAHEIM [0] -> VICTORVILLE [18] -> CHINO [4] -> RIVERA [15] -> TORRANCE [17] -> GARDENA [7]
+
+---------------------------------------
+---------------------------------------
+ From City:      [0]ANAHEIM (AN), population 1273000, elevation 310
+ To City:        [8]GRPVE (GG), population 913330, elevation 952
+
+ The shortest distance from ANAHEIM to GRPVE is 142
+ through the route: ANAHEIM [0] -> VICTORVILLE [18] -> CHINO [4] -> GRPVE [8]
+
+---------------------------------------
+---------------------------------------
+ From City:      [0]ANAHEIM (AN), population 1273000, elevation 310
+ To City:        [9]KERNVILLE (KV), population 6530, elevation 3925
+
+ The shortest distance from ANAHEIM to KERNVILLE is 147
+ through the route: ANAHEIM [0] -> VICTORVILLE [18] -> KERNVILLE [9]
+
+---------------------------------------
+---------------------------------------
+ From City:      [0]ANAHEIM (AN), population 1273000, elevation 310
+ To City:        [10]ISABELLA (LI), population 981, elevation 2194
+
+ The shortest distance from ANAHEIM to ISABELLA is 144
+ through the route: ANAHEIM [0] -> VICTORVILLE [18] -> CHINO [4] -> GRPVE [8] -> ISABELLA [10]
+
+---------------------------------------
+---------------------------------------
+ From City:      [0]ANAHEIM (AN), population 1273000, elevation 310
+ To City:        [11]VINING (LV), population 8390, elevation 5983
+
+ The shortest distance from ANAHEIM to VINING is 254
+ through the route: ANAHEIM [0] -> BREA [3] -> VINING [11]
+
+---------------------------------------
+---------------------------------------
+ From City:      [0]ANAHEIM (AN), population 1273000, elevation 310
+ To City:        [12]MOUNTAIN (MP), population 76, elevation 7190
+
+ The shortest distance from ANAHEIM to MOUNTAIN is 343
+ through the route: ANAHEIM [0] -> VICTORVILLE [18] -> CHINO [4] -> GRPVE [8] -> IRWIN [6] -> MOUNTAIN [12]
+
+---------------------------------------
+---------------------------------------
+ From City:      [0]ANAHEIM (AN), population 1273000, elevation 310
+ To City:        [13]PARKER (PD), population 2190, elevation 1829
+
+ The shortest distance from ANAHEIM to PARKER is 273
+ through the route: ANAHEIM [0] -> VICTORVILLE [18] -> CHINO [4] -> GRPVE [8] -> IRWIN [6] -> PARKER [13]
+
+---------------------------------------
+---------------------------------------
+ From City:      [0]ANAHEIM (AN), population 1273000, elevation 310
+ To City:        [14]POMONA (PM), population 698300, elevation 298
+
+ The shortest distance from ANAHEIM to POMONA is 253
+ through the route: ANAHEIM [0] -> VICTORVILLE [18] -> CHINO [4] -> RIVERA [15] -> TORRANCE [17] -> POMONA [14]
+
+---------------------------------------
+---------------------------------------
+ From City:      [0]ANAHEIM (AN), population 1273000, elevation 310
+ To City:        [15]RIVERA (PR), population 189820, elevation 1190
+
+ The shortest distance from ANAHEIM to RIVERA is 122
+ through the route: ANAHEIM [0] -> VICTORVILLE [18] -> CHINO [4] -> RIVERA [15]
+
+---------------------------------------
+---------------------------------------
+ From City:      [0]ANAHEIM (AN), population 1273000, elevation 310
+ To City:        [16]BERNADINO (SB), population 1293200, elevation 1033
+
+ The shortest distance from ANAHEIM to BERNADINO is 369
+ through the route: ANAHEIM [0] -> VICTORVILLE [18] -> CHINO [4] -> GRPVE [8] -> IRWIN [6] -> MOUNTAIN [12] -> BERNADINO [16]
+
+---------------------------------------
+---------------------------------------
+ From City:      [0]ANAHEIM (AN), population 1273000, elevation 310
+ To City:        [17]TORRANCE (TR), population 169400, elevation 829
+
+ The shortest distance from ANAHEIM to TORRANCE is 220
+ through the route: ANAHEIM [0] -> VICTORVILLE [18] -> CHINO [4] -> RIVERA [15] -> TORRANCE [17]
+
+---------------------------------------
+---------------------------------------
+ From City:      [0]ANAHEIM (AN), population 1273000, elevation 310
+ To City:        [18]VICTORVILLE (VV), population 57460, elevation 2190
+
+ The shortest distance from ANAHEIM to VICTORVILLE is 36
+ through the route: ANAHEIM [0] -> VICTORVILLE [18]
+
+---------------------------------------
+---------------------------------------
+ From City:      [0]ANAHEIM (AN), population 1273000, elevation 310
+ To City:        [19]WRIGHTWOOD (WW), population 9234, elevation 7910
+
+ The shortest distance from ANAHEIM to WRIGHTWOOD is 153
+ through the route: ANAHEIM [0] -> VICTORVILLE [18] -> CHINO [4] -> GRPVE [8] -> WRIGHTWOOD [19]
+
+---------------------------------------
+---------------------------------------
+
+---------------------------------------
+ From City:      [1]BAKERSFIELD (BK), population 31100, elevation 390
+ To City:        [0]ANAHEIM (AN), population 1273000, elevation 310
+
+ The shortest distance from BAKERSFIELD to ANAHEIM is 66
+ through the route: BAKERSFIELD [1] -> ANAHEIM [0]
+
+---------------------------------------
+---------------------------------------
+ From City:      [1]BAKERSFIELD (BK), population 31100, elevation 390
+ To City:        [1]BAKERSFIELD (BK), population 31100, elevation 390
+
+ The shortest distance from BAKERSFIELD to BAKERSFIELD is 0
+ through the route: BAKERSFIELD [1]
+
+---------------------------------------
+---------------------------------------
+ From City:      [1]BAKERSFIELD (BK), population 31100, elevation 390
+ To City:        [2]BOSSTOWN (BO), population 790, elevation 10
+
+ The shortest distance from BAKERSFIELD to BOSSTOWN is 40
+ through the route: BAKERSFIELD [1] -> VINING [11] -> BOSSTOWN [2]
+
+---------------------------------------
+---------------------------------------
+ From City:      [1]BAKERSFIELD (BK), population 31100, elevation 390
+ To City:        [3]BREA (BR), population 529000, elevation 1242
+
+ The shortest distance from BAKERSFIELD to BREA is 168
+ through the route: BAKERSFIELD [1] -> VINING [11] -> BOSSTOWN [2] -> ISABELLA [10] -> BREA [3]
+
+---------------------------------------
+---------------------------------------
+ From City:      [1]BAKERSFIELD (BK), population 31100, elevation 390
+ To City:        [4]CHINO (CH), population 52200, elevation 1381
+
+ The shortest distance from BAKERSFIELD to CHINO is 88
+ through the route: BAKERSFIELD [1] -> VICTORVILLE [18] -> CHINO [4]
+
+---------------------------------------
+---------------------------------------
+ From City:      [1]BAKERSFIELD (BK), population 31100, elevation 390
+ To City:        [5]EDWIN (ED), population 12, elevation 8719
+
+ The shortest distance from BAKERSFIELD to EDWIN is 173
+ through the route: BAKERSFIELD [1] -> VINING [11] -> BOSSTOWN [2] -> TORRANCE [17] -> POMONA [14] -> EDWIN [5]
+
+---------------------------------------
+---------------------------------------
+ From City:      [1]BAKERSFIELD (BK), population 31100, elevation 390
+ To City:        [6]IRWIN (FI), population 4120, elevation 932
+
+ The shortest distance from BAKERSFIELD to IRWIN is 151
+ through the route: BAKERSFIELD [1] -> VINING [11] -> IRWIN [6]
+
+---------------------------------------
+---------------------------------------
+ From City:      [1]BAKERSFIELD (BK), population 31100, elevation 390
+ To City:        [7]GARDENA (GD), population 653210, elevation 674
+
+ The shortest distance from BAKERSFIELD to GARDENA is 147
+ through the route: BAKERSFIELD [1] -> VINING [11] -> BOSSTOWN [2] -> TORRANCE [17] -> GARDENA [7]
+
+---------------------------------------
+---------------------------------------
+ From City:      [1]BAKERSFIELD (BK), population 31100, elevation 390
+ To City:        [8]GRPVE (GG), population 913330, elevation 952
+
+ The shortest distance from BAKERSFIELD to GRPVE is 51
+ through the route: BAKERSFIELD [1] -> VINING [11] -> BOSSTOWN [2] -> GRPVE [8]
+
+---------------------------------------
+---------------------------------------
+ From City:      [1]BAKERSFIELD (BK), population 31100, elevation 390
+ To City:        [9]KERNVILLE (KV), population 6530, elevation 3925
+
+ The shortest distance from BAKERSFIELD to KERNVILLE is 125
+ through the route: BAKERSFIELD [1] -> VICTORVILLE [18] -> KERNVILLE [9]
+
+---------------------------------------
+---------------------------------------
+ From City:      [1]BAKERSFIELD (BK), population 31100, elevation 390
+ To City:        [10]ISABELLA (LI), population 981, elevation 2194
+
+ The shortest distance from BAKERSFIELD to ISABELLA is 78
+ through the route: BAKERSFIELD [1] -> VINING [11] -> BOSSTOWN [2] -> ISABELLA [10]
+
+---------------------------------------
+---------------------------------------
+ From City:      [1]BAKERSFIELD (BK), population 31100, elevation 390
+ To City:        [11]VINING (LV), population 8390, elevation 5983
+
+ The shortest distance from BAKERSFIELD to VINING is 29
+ through the route: BAKERSFIELD [1] -> VINING [11]
+
+---------------------------------------
+---------------------------------------
+ From City:      [1]BAKERSFIELD (BK), population 31100, elevation 390
+ To City:        [12]MOUNTAIN (MP), population 76, elevation 7190
+
+ The shortest distance from BAKERSFIELD to MOUNTAIN is 232
+ through the route: BAKERSFIELD [1] -> VINING [11] -> IRWIN [6] -> MOUNTAIN [12]
+
+---------------------------------------
+---------------------------------------
+ From City:      [1]BAKERSFIELD (BK), population 31100, elevation 390
+ To City:        [13]PARKER (PD), population 2190, elevation 1829
+
+ The shortest distance from BAKERSFIELD to PARKER is 162
+ through the route: BAKERSFIELD [1] -> VINING [11] -> IRWIN [6] -> PARKER [13]
+
+---------------------------------------
+---------------------------------------
+ From City:      [1]BAKERSFIELD (BK), population 31100, elevation 390
+ To City:        [14]POMONA (PM), population 698300, elevation 298
+
+ The shortest distance from BAKERSFIELD to POMONA is 151
+ through the route: BAKERSFIELD [1] -> VINING [11] -> BOSSTOWN [2] -> TORRANCE [17] -> POMONA [14]
+
+---------------------------------------
+---------------------------------------
+ From City:      [1]BAKERSFIELD (BK), population 31100, elevation 390
+ To City:        [15]RIVERA (PR), population 189820, elevation 1190
+
+ The shortest distance from BAKERSFIELD to RIVERA is 100
+ through the route: BAKERSFIELD [1] -> VICTORVILLE [18] -> CHINO [4] -> RIVERA [15]
+
+---------------------------------------
+---------------------------------------
+ From City:      [1]BAKERSFIELD (BK), population 31100, elevation 390
+ To City:        [16]BERNADINO (SB), population 1293200, elevation 1033
+
+ The shortest distance from BAKERSFIELD to BERNADINO is 65
+ through the route: BAKERSFIELD [1] -> BERNADINO [16]
+
+---------------------------------------
+---------------------------------------
+ From City:      [1]BAKERSFIELD (BK), population 31100, elevation 390
+ To City:        [17]TORRANCE (TR), population 169400, elevation 829
+
+ The shortest distance from BAKERSFIELD to TORRANCE is 118
+ through the route: BAKERSFIELD [1] -> VINING [11] -> BOSSTOWN [2] -> TORRANCE [17]
+
+---------------------------------------
+---------------------------------------
+ From City:      [1]BAKERSFIELD (BK), population 31100, elevation 390
+ To City:        [18]VICTORVILLE (VV), population 57460, elevation 2190
+
+ The shortest distance from BAKERSFIELD to VICTORVILLE is 14
+ through the route: BAKERSFIELD [1] -> VICTORVILLE [18]
+
+---------------------------------------
+---------------------------------------
+ From City:      [1]BAKERSFIELD (BK), population 31100, elevation 390
+ To City:        [19]WRIGHTWOOD (WW), population 9234, elevation 7910
+
+ The shortest distance from BAKERSFIELD to WRIGHTWOOD is 62
+ through the route: BAKERSFIELD [1] -> VINING [11] -> BOSSTOWN [2] -> GRPVE [8] -> WRIGHTWOOD [19]
+
+---------------------------------------
+---------------------------------------
+
+---------------------------------------
+ From City:      [2]BOSSTOWN (BO), population 790, elevation 10
+ To City:        [0]ANAHEIM (AN), population 1273000, elevation 310
+
+ The shortest distance from BOSSTOWN to ANAHEIM is 83
+ through the route: BOSSTOWN [2] -> BAKERSFIELD [1] -> ANAHEIM [0]
+
+---------------------------------------
+---------------------------------------
+ From City:      [2]BOSSTOWN (BO), population 790, elevation 10
+ To City:        [1]BAKERSFIELD (BK), population 31100, elevation 390
+
+ The shortest distance from BOSSTOWN to BAKERSFIELD is 17
+ through the route: BOSSTOWN [2] -> BAKERSFIELD [1]
+
+---------------------------------------
+---------------------------------------
+ From City:      [2]BOSSTOWN (BO), population 790, elevation 10
+ To City:        [2]BOSSTOWN (BO), population 790, elevation 10
+
+ The shortest distance from BOSSTOWN to BOSSTOWN is 0
+ through the route: BOSSTOWN [2]
+
+---------------------------------------
+---------------------------------------
+ From City:      [2]BOSSTOWN (BO), population 790, elevation 10
+ To City:        [3]BREA (BR), population 529000, elevation 1242
+
+ The shortest distance from BOSSTOWN to BREA is 103
+ through the route: BOSSTOWN [2] -> GRPVE [8] -> ISABELLA [10] -> BREA [3]
+
+---------------------------------------
+---------------------------------------
+ From City:      [2]BOSSTOWN (BO), population 790, elevation 10
+ To City:        [4]CHINO (CH), population 52200, elevation 1381
+
+ The shortest distance from BOSSTOWN to CHINO is 105
+ through the route: BOSSTOWN [2] -> BAKERSFIELD [1] -> VICTORVILLE [18] -> CHINO [4]
+
+---------------------------------------
+---------------------------------------
+ From City:      [2]BOSSTOWN (BO), population 790, elevation 10
+ To City:        [5]EDWIN (ED), population 12, elevation 8719
+
+ The shortest distance from BOSSTOWN to EDWIN is 112
+ through the route: BOSSTOWN [2] -> TORRANCE [17] -> GARDENA [7] -> EDWIN [5]
+
+---------------------------------------
+---------------------------------------
+ From City:      [2]BOSSTOWN (BO), population 790, elevation 10
+ To City:        [6]IRWIN (FI), population 4120, elevation 932
+
+ The shortest distance from BOSSTOWN to IRWIN is 131
+ through the route: BOSSTOWN [2] -> GRPVE [8] -> IRWIN [6]
+
+---------------------------------------
+---------------------------------------
+ From City:      [2]BOSSTOWN (BO), population 790, elevation 10
+ To City:        [7]GARDENA (GD), population 653210, elevation 674
+
+ The shortest distance from BOSSTOWN to GARDENA is 107
+ through the route: BOSSTOWN [2] -> TORRANCE [17] -> GARDENA [7]
+
+---------------------------------------
+---------------------------------------
+ From City:      [2]BOSSTOWN (BO), population 790, elevation 10
+ To City:        [8]GRPVE (GG), population 913330, elevation 952
+
+ The shortest distance from BOSSTOWN to GRPVE is 11
+ through the route: BOSSTOWN [2] -> GRPVE [8]
+
+---------------------------------------
+---------------------------------------
+ From City:      [2]BOSSTOWN (BO), population 790, elevation 10
+ To City:        [9]KERNVILLE (KV), population 6530, elevation 3925
+
+ The shortest distance from BOSSTOWN to KERNVILLE is 111
+ through the route: BOSSTOWN [2] -> TORRANCE [17] -> KERNVILLE [9]
+
+---------------------------------------
+---------------------------------------
+ From City:      [2]BOSSTOWN (BO), population 790, elevation 10
+ To City:        [10]ISABELLA (LI), population 981, elevation 2194
+
+ The shortest distance from BOSSTOWN to ISABELLA is 13
+ through the route: BOSSTOWN [2] -> GRPVE [8] -> ISABELLA [10]
+
+---------------------------------------
+---------------------------------------
+ From City:      [2]BOSSTOWN (BO), population 790, elevation 10
+ To City:        [11]VINING (LV), population 8390, elevation 5983
+
+ The shortest distance from BOSSTOWN to VINING is 46
+ through the route: BOSSTOWN [2] -> BAKERSFIELD [1] -> VINING [11]
+
+---------------------------------------
+---------------------------------------
+ From City:      [2]BOSSTOWN (BO), population 790, elevation 10
+ To City:        [12]MOUNTAIN (MP), population 76, elevation 7190
+
+ The shortest distance from BOSSTOWN to MOUNTAIN is 212
+ through the route: BOSSTOWN [2] -> GRPVE [8] -> IRWIN [6] -> MOUNTAIN [12]
+
+---------------------------------------
+---------------------------------------
+ From City:      [2]BOSSTOWN (BO), population 790, elevation 10
+ To City:        [13]PARKER (PD), population 2190, elevation 1829
+
+ The shortest distance from BOSSTOWN to PARKER is 122
+ through the route: BOSSTOWN [2] -> PARKER [13]
+
+---------------------------------------
+---------------------------------------
+ From City:      [2]BOSSTOWN (BO), population 790, elevation 10
+ To City:        [14]POMONA (PM), population 698300, elevation 298
+
+ The shortest distance from BOSSTOWN to POMONA is 111
+ through the route: BOSSTOWN [2] -> TORRANCE [17] -> POMONA [14]
+
+---------------------------------------
+---------------------------------------
+ From City:      [2]BOSSTOWN (BO), population 790, elevation 10
+ To City:        [15]RIVERA (PR), population 189820, elevation 1190
+
+ The shortest distance from BOSSTOWN to RIVERA is 117
+ through the route: BOSSTOWN [2] -> BAKERSFIELD [1] -> VICTORVILLE [18] -> CHINO [4] -> RIVERA [15]
+
+---------------------------------------
+---------------------------------------
+ From City:      [2]BOSSTOWN (BO), population 790, elevation 10
+ To City:        [16]BERNADINO (SB), population 1293200, elevation 1033
+
+ The shortest distance from BOSSTOWN to BERNADINO is 82
+ through the route: BOSSTOWN [2] -> BAKERSFIELD [1] -> BERNADINO [16]
+
+---------------------------------------
+---------------------------------------
+ From City:      [2]BOSSTOWN (BO), population 790, elevation 10
+ To City:        [17]TORRANCE (TR), population 169400, elevation 829
+
+ The shortest distance from BOSSTOWN to TORRANCE is 78
+ through the route: BOSSTOWN [2] -> TORRANCE [17]
+
+---------------------------------------
+---------------------------------------
+ From City:      [2]BOSSTOWN (BO), population 790, elevation 10
+ To City:        [18]VICTORVILLE (VV), population 57460, elevation 2190
+
+ The shortest distance from BOSSTOWN to VICTORVILLE is 31
+ through the route: BOSSTOWN [2] -> BAKERSFIELD [1] -> VICTORVILLE [18]
+
+---------------------------------------
+---------------------------------------
+ From City:      [2]BOSSTOWN (BO), population 790, elevation 10
+ To City:        [19]WRIGHTWOOD (WW), population 9234, elevation 7910
+
+ The shortest distance from BOSSTOWN to WRIGHTWOOD is 22
+ through the route: BOSSTOWN [2] -> GRPVE [8] -> WRIGHTWOOD [19]
+
+---------------------------------------
+---------------------------------------
+
+---------------------------------------
+ From City:      [3]BREA (BR), population 529000, elevation 1242
+ To City:        [0]ANAHEIM (AN), population 1273000, elevation 310
+
+ The shortest distance from BREA to ANAHEIM is 184
+ through the route: BREA [3] -> VINING [11] -> IRWIN [6] -> ANAHEIM [0]
+
+---------------------------------------
+---------------------------------------
+ From City:      [3]BREA (BR), population 529000, elevation 1242
+ To City:        [1]BAKERSFIELD (BK), population 31100, elevation 390
+
+ The shortest distance from BREA to BAKERSFIELD is 156
+ through the route: BREA [3] -> CHINO [4] -> GRPVE [8] -> BAKERSFIELD [1]
+
+---------------------------------------
+---------------------------------------
+ From City:      [3]BREA (BR), population 529000, elevation 1242
+ To City:        [2]BOSSTOWN (BO), population 790, elevation 10
+
+ The shortest distance from BREA to BOSSTOWN is 53
+ through the route: BREA [3] -> VINING [11] -> BOSSTOWN [2]
+
+---------------------------------------
+---------------------------------------
+ From City:      [3]BREA (BR), population 529000, elevation 1242
+ To City:        [3]BREA (BR), population 529000, elevation 1242
+
+ The shortest distance from BREA to BREA is 0
+ through the route: BREA [3]
+
+---------------------------------------
+---------------------------------------
+ From City:      [3]BREA (BR), population 529000, elevation 1242
+ To City:        [4]CHINO (CH), population 52200, elevation 1381
+
+ The shortest distance from BREA to CHINO is 29
+ through the route: BREA [3] -> CHINO [4]
+
+---------------------------------------
+---------------------------------------
+ From City:      [3]BREA (BR), population 529000, elevation 1242
+ To City:        [5]EDWIN (ED), population 12, elevation 8719
+
+ The shortest distance from BREA to EDWIN is 383
+ through the route: BREA [3] -> VINING [11] -> VICTORVILLE [18] -> EDWIN [5]
+
+---------------------------------------
+---------------------------------------
+ From City:      [3]BREA (BR), population 529000, elevation 1242
+ To City:        [6]IRWIN (FI), population 4120, elevation 932
+
+ The shortest distance from BREA to IRWIN is 164
+ through the route: BREA [3] -> VINING [11] -> IRWIN [6]
+
+---------------------------------------
+---------------------------------------
+ From City:      [3]BREA (BR), population 529000, elevation 1242
+ To City:        [7]GARDENA (GD), population 653210, elevation 674
+
+ The shortest distance from BREA to GARDENA is 168
+ through the route: BREA [3] -> CHINO [4] -> RIVERA [15] -> TORRANCE [17] -> GARDENA [7]
+
+---------------------------------------
+---------------------------------------
+ From City:      [3]BREA (BR), population 529000, elevation 1242
+ To City:        [8]GRPVE (GG), population 913330, elevation 952
+
+ The shortest distance from BREA to GRPVE is 61
+ through the route: BREA [3] -> CHINO [4] -> GRPVE [8]
+
+---------------------------------------
+---------------------------------------
+ From City:      [3]BREA (BR), population 529000, elevation 1242
+ To City:        [9]KERNVILLE (KV), population 6530, elevation 3925
+
+ The shortest distance from BREA to KERNVILLE is 275
+ through the route: BREA [3] -> VINING [11] -> VICTORVILLE [18] -> KERNVILLE [9]
+
+---------------------------------------
+---------------------------------------
+ From City:      [3]BREA (BR), population 529000, elevation 1242
+ To City:        [10]ISABELLA (LI), population 981, elevation 2194
+
+ The shortest distance from BREA to ISABELLA is 63
+ through the route: BREA [3] -> CHINO [4] -> GRPVE [8] -> ISABELLA [10]
+
+---------------------------------------
+---------------------------------------
+ From City:      [3]BREA (BR), population 529000, elevation 1242
+ To City:        [11]VINING (LV), population 8390, elevation 5983
+
+ The shortest distance from BREA to VINING is 42
+ through the route: BREA [3] -> VINING [11]
+
+---------------------------------------
+---------------------------------------
+ From City:      [3]BREA (BR), population 529000, elevation 1242
+ To City:        [12]MOUNTAIN (MP), population 76, elevation 7190
+
+ The shortest distance from BREA to MOUNTAIN is 245
+ through the route: BREA [3] -> VINING [11] -> IRWIN [6] -> MOUNTAIN [12]
+
+---------------------------------------
+---------------------------------------
+ From City:      [3]BREA (BR), population 529000, elevation 1242
+ To City:        [13]PARKER (PD), population 2190, elevation 1829
+
+ The shortest distance from BREA to PARKER is 175
+ through the route: BREA [3] -> VINING [11] -> IRWIN [6] -> PARKER [13]
+
+---------------------------------------
+---------------------------------------
+ From City:      [3]BREA (BR), population 529000, elevation 1242
+ To City:        [14]POMONA (PM), population 698300, elevation 298
+
+ The shortest distance from BREA to POMONA is 172
+ through the route: BREA [3] -> CHINO [4] -> RIVERA [15] -> TORRANCE [17] -> POMONA [14]
+
+---------------------------------------
+---------------------------------------
+ From City:      [3]BREA (BR), population 529000, elevation 1242
+ To City:        [15]RIVERA (PR), population 189820, elevation 1190
+
+ The shortest distance from BREA to RIVERA is 41
+ through the route: BREA [3] -> CHINO [4] -> RIVERA [15]
+
+---------------------------------------
+---------------------------------------
+ From City:      [3]BREA (BR), population 529000, elevation 1242
+ To City:        [16]BERNADINO (SB), population 1293200, elevation 1033
+
+ The shortest distance from BREA to BERNADINO is 163
+ through the route: BREA [3] -> VINING [11] -> BERNADINO [16]
+
+---------------------------------------
+---------------------------------------
+ From City:      [3]BREA (BR), population 529000, elevation 1242
+ To City:        [17]TORRANCE (TR), population 169400, elevation 829
+
+ The shortest distance from BREA to TORRANCE is 139
+ through the route: BREA [3] -> CHINO [4] -> RIVERA [15] -> TORRANCE [17]
+
+---------------------------------------
+---------------------------------------
+ From City:      [3]BREA (BR), population 529000, elevation 1242
+ To City:        [18]VICTORVILLE (VV), population 57460, elevation 2190
+
+ The shortest distance from BREA to VICTORVILLE is 164
+ through the route: BREA [3] -> VINING [11] -> VICTORVILLE [18]
+
+---------------------------------------
+---------------------------------------
+ From City:      [3]BREA (BR), population 529000, elevation 1242
+ To City:        [19]WRIGHTWOOD (WW), population 9234, elevation 7910
+
+ The shortest distance from BREA to WRIGHTWOOD is 72
+ through the route: BREA [3] -> CHINO [4] -> GRPVE [8] -> WRIGHTWOOD [19]
+
+---------------------------------------
+---------------------------------------
+
+---------------------------------------
+ From City:      [4]CHINO (CH), population 52200, elevation 1381
+ To City:        [0]ANAHEIM (AN), population 1273000, elevation 310
+
+ The shortest distance from CHINO to ANAHEIM is 172
+ through the route: CHINO [4] -> GRPVE [8] -> IRWIN [6] -> ANAHEIM [0]
+
+---------------------------------------
+---------------------------------------
+ From City:      [4]CHINO (CH), population 52200, elevation 1381
+ To City:        [1]BAKERSFIELD (BK), population 31100, elevation 390
+
+ The shortest distance from CHINO to BAKERSFIELD is 115
+ through the route: CHINO [4] -> GRPVE [8] -> ISABELLA [10] -> BAKERSFIELD [1]
+
+---------------------------------------
+---------------------------------------
+ From City:      [4]CHINO (CH), population 52200, elevation 1381
+ To City:        [2]BOSSTOWN (BO), population 790, elevation 10
+
+ The shortest distance from CHINO to BOSSTOWN is 155
+ through the route: CHINO [4] -> GRPVE [8] -> ISABELLA [10] -> BAKERSFIELD [1] -> VINING [11] -> BOSSTOWN [2]
+
+---------------------------------------
+---------------------------------------
+ From City:      [4]CHINO (CH), population 52200, elevation 1381
+ To City:        [3]BREA (BR), population 529000, elevation 1242
+
+ The shortest distance from CHINO to BREA is 122
+ through the route: CHINO [4] -> BREA [3]
+
+---------------------------------------
+---------------------------------------
+ From City:      [4]CHINO (CH), population 52200, elevation 1381
+ To City:        [4]CHINO (CH), population 52200, elevation 1381
+
+ The shortest distance from CHINO to CHINO is 0
+ through the route: CHINO [4]
+
+---------------------------------------
+---------------------------------------
+ From City:      [4]CHINO (CH), population 52200, elevation 1381
+ To City:        [5]EDWIN (ED), population 12, elevation 8719
+
+ The shortest distance from CHINO to EDWIN is 144
+ through the route: CHINO [4] -> RIVERA [15] -> TORRANCE [17] -> GARDENA [7] -> EDWIN [5]
+
+---------------------------------------
+---------------------------------------
+ From City:      [4]CHINO (CH), population 52200, elevation 1381
+ To City:        [6]IRWIN (FI), population 4120, elevation 932
+
+ The shortest distance from CHINO to IRWIN is 152
+ through the route: CHINO [4] -> GRPVE [8] -> IRWIN [6]
+
+---------------------------------------
+---------------------------------------
+ From City:      [4]CHINO (CH), population 52200, elevation 1381
+ To City:        [7]GARDENA (GD), population 653210, elevation 674
+
+ The shortest distance from CHINO to GARDENA is 139
+ through the route: CHINO [4] -> RIVERA [15] -> TORRANCE [17] -> GARDENA [7]
+
+---------------------------------------
+---------------------------------------
+ From City:      [4]CHINO (CH), population 52200, elevation 1381
+ To City:        [8]GRPVE (GG), population 913330, elevation 952
+
+ The shortest distance from CHINO to GRPVE is 32
+ through the route: CHINO [4] -> GRPVE [8]
+
+---------------------------------------
+---------------------------------------
+ From City:      [4]CHINO (CH), population 52200, elevation 1381
+ To City:        [9]KERNVILLE (KV), population 6530, elevation 3925
+
+ The shortest distance from CHINO to KERNVILLE is 143
+ through the route: CHINO [4] -> RIVERA [15] -> TORRANCE [17] -> KERNVILLE [9]
+
+---------------------------------------
+---------------------------------------
+ From City:      [4]CHINO (CH), population 52200, elevation 1381
+ To City:        [10]ISABELLA (LI), population 981, elevation 2194
+
+ The shortest distance from CHINO to ISABELLA is 34
+ through the route: CHINO [4] -> GRPVE [8] -> ISABELLA [10]
+
+---------------------------------------
+---------------------------------------
+ From City:      [4]CHINO (CH), population 52200, elevation 1381
+ To City:        [11]VINING (LV), population 8390, elevation 5983
+
+ The shortest distance from CHINO to VINING is 144
+ through the route: CHINO [4] -> GRPVE [8] -> ISABELLA [10] -> BAKERSFIELD [1] -> VINING [11]
+
+---------------------------------------
+---------------------------------------
+ From City:      [4]CHINO (CH), population 52200, elevation 1381
+ To City:        [12]MOUNTAIN (MP), population 76, elevation 7190
+
+ The shortest distance from CHINO to MOUNTAIN is 233
+ through the route: CHINO [4] -> GRPVE [8] -> IRWIN [6] -> MOUNTAIN [12]
+
+---------------------------------------
+---------------------------------------
+ From City:      [4]CHINO (CH), population 52200, elevation 1381
+ To City:        [13]PARKER (PD), population 2190, elevation 1829
+
+ The shortest distance from CHINO to PARKER is 163
+ through the route: CHINO [4] -> GRPVE [8] -> IRWIN [6] -> PARKER [13]
+
+---------------------------------------
+---------------------------------------
+ From City:      [4]CHINO (CH), population 52200, elevation 1381
+ To City:        [14]POMONA (PM), population 698300, elevation 298
+
+ The shortest distance from CHINO to POMONA is 143
+ through the route: CHINO [4] -> RIVERA [15] -> TORRANCE [17] -> POMONA [14]
+
+---------------------------------------
+---------------------------------------
+ From City:      [4]CHINO (CH), population 52200, elevation 1381
+ To City:        [15]RIVERA (PR), population 189820, elevation 1190
+
+ The shortest distance from CHINO to RIVERA is 12
+ through the route: CHINO [4] -> RIVERA [15]
+
+---------------------------------------
+---------------------------------------
+ From City:      [4]CHINO (CH), population 52200, elevation 1381
+ To City:        [16]BERNADINO (SB), population 1293200, elevation 1033
+
+ The shortest distance from CHINO to BERNADINO is 180
+ through the route: CHINO [4] -> GRPVE [8] -> ISABELLA [10] -> BAKERSFIELD [1] -> BERNADINO [16]
+
+---------------------------------------
+---------------------------------------
+ From City:      [4]CHINO (CH), population 52200, elevation 1381
+ To City:        [17]TORRANCE (TR), population 169400, elevation 829
+
+ The shortest distance from CHINO to TORRANCE is 110
+ through the route: CHINO [4] -> RIVERA [15] -> TORRANCE [17]
+
+---------------------------------------
+---------------------------------------
+ From City:      [4]CHINO (CH), population 52200, elevation 1381
+ To City:        [18]VICTORVILLE (VV), population 57460, elevation 2190
+
+ The shortest distance from CHINO to VICTORVILLE is 129
+ through the route: CHINO [4] -> GRPVE [8] -> ISABELLA [10] -> BAKERSFIELD [1] -> VICTORVILLE [18]
+
+---------------------------------------
+---------------------------------------
+ From City:      [4]CHINO (CH), population 52200, elevation 1381
+ To City:        [19]WRIGHTWOOD (WW), population 9234, elevation 7910
+
+ The shortest distance from CHINO to WRIGHTWOOD is 43
+ through the route: CHINO [4] -> GRPVE [8] -> WRIGHTWOOD [19]
+
+---------------------------------------
+---------------------------------------
+
+---------------------------------------
+ From City:      [5]EDWIN (ED), population 12, elevation 8719
+ To City:        [0]ANAHEIM (AN), population 1273000, elevation 310
+
+ The shortest distance from EDWIN to ANAHEIM is 62
+ through the route: EDWIN [5] -> ANAHEIM [0]
+
+---------------------------------------
+---------------------------------------
+ From City:      [5]EDWIN (ED), population 12, elevation 8719
+ To City:        [1]BAKERSFIELD (BK), population 31100, elevation 390
+
+ The shortest distance from EDWIN to BAKERSFIELD is 287
+ through the route: EDWIN [5] -> ANAHEIM [0] -> VICTORVILLE [18] -> CHINO [4] -> GRPVE [8] -> ISABELLA [10] -> BAKERSFIELD [1]
+
+---------------------------------------
+---------------------------------------
+ From City:      [5]EDWIN (ED), population 12, elevation 8719
+ To City:        [2]BOSSTOWN (BO), population 790, elevation 10
+
+ The shortest distance from EDWIN to BOSSTOWN is 342
+ through the route: EDWIN [5] -> GARDENA [7] -> BOSSTOWN [2]
+
+---------------------------------------
+---------------------------------------
+ From City:      [5]EDWIN (ED), population 12, elevation 8719
+ To City:        [3]BREA (BR), population 529000, elevation 1242
+
+ The shortest distance from EDWIN to BREA is 274
+ through the route: EDWIN [5] -> ANAHEIM [0] -> BREA [3]
+
+---------------------------------------
+---------------------------------------
+ From City:      [5]EDWIN (ED), population 12, elevation 8719
+ To City:        [4]CHINO (CH), population 52200, elevation 1381
+
+ The shortest distance from EDWIN to CHINO is 172
+ through the route: EDWIN [5] -> ANAHEIM [0] -> VICTORVILLE [18] -> CHINO [4]
+
+---------------------------------------
+---------------------------------------
+ From City:      [5]EDWIN (ED), population 12, elevation 8719
+ To City:        [5]EDWIN (ED), population 12, elevation 8719
+
+ The shortest distance from EDWIN to EDWIN is 0
+ through the route: EDWIN [5]
+
+---------------------------------------
+---------------------------------------
+ From City:      [5]EDWIN (ED), population 12, elevation 8719
+ To City:        [6]IRWIN (FI), population 4120, elevation 932
+
+ The shortest distance from EDWIN to IRWIN is 324
+ through the route: EDWIN [5] -> ANAHEIM [0] -> VICTORVILLE [18] -> CHINO [4] -> GRPVE [8] -> IRWIN [6]
+
+---------------------------------------
+---------------------------------------
+ From City:      [5]EDWIN (ED), population 12, elevation 8719
+ To City:        [7]GARDENA (GD), population 653210, elevation 674
+
+ The shortest distance from EDWIN to GARDENA is 132
+ through the route: EDWIN [5] -> GARDENA [7]
+
+---------------------------------------
+---------------------------------------
+ From City:      [5]EDWIN (ED), population 12, elevation 8719
+ To City:        [8]GRPVE (GG), population 913330, elevation 952
+
+ The shortest distance from EDWIN to GRPVE is 204
+ through the route: EDWIN [5] -> ANAHEIM [0] -> VICTORVILLE [18] -> CHINO [4] -> GRPVE [8]
+
+---------------------------------------
+---------------------------------------
+ From City:      [5]EDWIN (ED), population 12, elevation 8719
+ To City:        [9]KERNVILLE (KV), population 6530, elevation 3925
+
+ The shortest distance from EDWIN to KERNVILLE is 209
+ through the route: EDWIN [5] -> ANAHEIM [0] -> VICTORVILLE [18] -> KERNVILLE [9]
+
+---------------------------------------
+---------------------------------------
+ From City:      [5]EDWIN (ED), population 12, elevation 8719
+ To City:        [10]ISABELLA (LI), population 981, elevation 2194
+
+ The shortest distance from EDWIN to ISABELLA is 206
+ through the route: EDWIN [5] -> ANAHEIM [0] -> VICTORVILLE [18] -> CHINO [4] -> GRPVE [8] -> ISABELLA [10]
+
+---------------------------------------
+---------------------------------------
+ From City:      [5]EDWIN (ED), population 12, elevation 8719
+ To City:        [11]VINING (LV), population 8390, elevation 5983
+
+ The shortest distance from EDWIN to VINING is 316
+ through the route: EDWIN [5] -> ANAHEIM [0] -> BREA [3] -> VINING [11]
+
+---------------------------------------
+---------------------------------------
+ From City:      [5]EDWIN (ED), population 12, elevation 8719
+ To City:        [12]MOUNTAIN (MP), population 76, elevation 7190
+
+ The shortest distance from EDWIN to MOUNTAIN is 405
+ through the route: EDWIN [5] -> ANAHEIM [0] -> VICTORVILLE [18] -> CHINO [4] -> GRPVE [8] -> IRWIN [6] -> MOUNTAIN [12]
+
+---------------------------------------
+---------------------------------------
+ From City:      [5]EDWIN (ED), population 12, elevation 8719
+ To City:        [13]PARKER (PD), population 2190, elevation 1829
+
+ The shortest distance from EDWIN to PARKER is 335
+ through the route: EDWIN [5] -> ANAHEIM [0] -> VICTORVILLE [18] -> CHINO [4] -> GRPVE [8] -> IRWIN [6] -> PARKER [13]
+
+---------------------------------------
+---------------------------------------
+ From City:      [5]EDWIN (ED), population 12, elevation 8719
+ To City:        [14]POMONA (PM), population 698300, elevation 298
+
+ The shortest distance from EDWIN to POMONA is 337
+ through the route: EDWIN [5] -> GARDENA [7] -> RIVERA [15] -> TORRANCE [17] -> POMONA [14]
+
+---------------------------------------
+---------------------------------------
+ From City:      [5]EDWIN (ED), population 12, elevation 8719
+ To City:        [15]RIVERA (PR), population 189820, elevation 1190
+
+ The shortest distance from EDWIN to RIVERA is 206
+ through the route: EDWIN [5] -> GARDENA [7] -> RIVERA [15]
+
+---------------------------------------
+---------------------------------------
+ From City:      [5]EDWIN (ED), population 12, elevation 8719
+ To City:        [16]BERNADINO (SB), population 1293200, elevation 1033
+
+ The shortest distance from EDWIN to BERNADINO is 352
+ through the route: EDWIN [5] -> ANAHEIM [0] -> VICTORVILLE [18] -> CHINO [4] -> GRPVE [8] -> ISABELLA [10] -> BAKERSFIELD [1] -> BERNADINO [16]
+
+---------------------------------------
+---------------------------------------
+ From City:      [5]EDWIN (ED), population 12, elevation 8719
+ To City:        [17]TORRANCE (TR), population 169400, elevation 829
+
+ The shortest distance from EDWIN to TORRANCE is 304
+ through the route: EDWIN [5] -> GARDENA [7] -> RIVERA [15] -> TORRANCE [17]
+
+---------------------------------------
+---------------------------------------
+ From City:      [5]EDWIN (ED), population 12, elevation 8719
+ To City:        [18]VICTORVILLE (VV), population 57460, elevation 2190
+
+ The shortest distance from EDWIN to VICTORVILLE is 98
+ through the route: EDWIN [5] -> ANAHEIM [0] -> VICTORVILLE [18]
+
+---------------------------------------
+---------------------------------------
+ From City:      [5]EDWIN (ED), population 12, elevation 8719
+ To City:        [19]WRIGHTWOOD (WW), population 9234, elevation 7910
+
+ The shortest distance from EDWIN to WRIGHTWOOD is 215
+ through the route: EDWIN [5] -> ANAHEIM [0] -> VICTORVILLE [18] -> CHINO [4] -> GRPVE [8] -> WRIGHTWOOD [19]
+
+---------------------------------------
+---------------------------------------
+
+---------------------------------------
+ From City:      [6]IRWIN (FI), population 4120, elevation 932
+ To City:        [0]ANAHEIM (AN), population 1273000, elevation 310
+
+ The shortest distance from IRWIN to ANAHEIM is 20
+ through the route: IRWIN [6] -> ANAHEIM [0]
+
+---------------------------------------
+---------------------------------------
+ From City:      [6]IRWIN (FI), population 4120, elevation 932
+ To City:        [1]BAKERSFIELD (BK), population 31100, elevation 390
+
+ The shortest distance from IRWIN to BAKERSFIELD is 50
+ through the route: IRWIN [6] -> PARKER [13] -> BOSSTOWN [2] -> BAKERSFIELD [1]
+
+---------------------------------------
+---------------------------------------
+ From City:      [6]IRWIN (FI), population 4120, elevation 932
+ To City:        [2]BOSSTOWN (BO), population 790, elevation 10
+
+ The shortest distance from IRWIN to BOSSTOWN is 33
+ through the route: IRWIN [6] -> PARKER [13] -> BOSSTOWN [2]
+
+---------------------------------------
+---------------------------------------
+ From City:      [6]IRWIN (FI), population 4120, elevation 932
+ To City:        [3]BREA (BR), population 529000, elevation 1242
+
+ The shortest distance from IRWIN to BREA is 41
+ through the route: IRWIN [6] -> BREA [3]
+
+---------------------------------------
+---------------------------------------
+ From City:      [6]IRWIN (FI), population 4120, elevation 932
+ To City:        [4]CHINO (CH), population 52200, elevation 1381
+
+ The shortest distance from IRWIN to CHINO is 70
+ through the route: IRWIN [6] -> BREA [3] -> CHINO [4]
+
+---------------------------------------
+---------------------------------------
+ From City:      [6]IRWIN (FI), population 4120, elevation 932
+ To City:        [5]EDWIN (ED), population 12, elevation 8719
+
+ The shortest distance from IRWIN to EDWIN is 145
+ through the route: IRWIN [6] -> PARKER [13] -> BOSSTOWN [2] -> TORRANCE [17] -> GARDENA [7] -> EDWIN [5]
+
+---------------------------------------
+---------------------------------------
+ From City:      [6]IRWIN (FI), population 4120, elevation 932
+ To City:        [6]IRWIN (FI), population 4120, elevation 932
+
+ The shortest distance from IRWIN to IRWIN is 0
+ through the route: IRWIN [6]
+
+---------------------------------------
+---------------------------------------
+ From City:      [6]IRWIN (FI), population 4120, elevation 932
+ To City:        [7]GARDENA (GD), population 653210, elevation 674
+
+ The shortest distance from IRWIN to GARDENA is 140
+ through the route: IRWIN [6] -> PARKER [13] -> BOSSTOWN [2] -> TORRANCE [17] -> GARDENA [7]
+
+---------------------------------------
+---------------------------------------
+ From City:      [6]IRWIN (FI), population 4120, elevation 932
+ To City:        [8]GRPVE (GG), population 913330, elevation 952
+
+ The shortest distance from IRWIN to GRPVE is 24
+ through the route: IRWIN [6] -> PARKER [13] -> GRPVE [8]
+
+---------------------------------------
+---------------------------------------
+ From City:      [6]IRWIN (FI), population 4120, elevation 932
+ To City:        [9]KERNVILLE (KV), population 6530, elevation 3925
+
+ The shortest distance from IRWIN to KERNVILLE is 144
+ through the route: IRWIN [6] -> PARKER [13] -> BOSSTOWN [2] -> TORRANCE [17] -> KERNVILLE [9]
+
+---------------------------------------
+---------------------------------------
+ From City:      [6]IRWIN (FI), population 4120, elevation 932
+ To City:        [10]ISABELLA (LI), population 981, elevation 2194
+
+ The shortest distance from IRWIN to ISABELLA is 26
+ through the route: IRWIN [6] -> PARKER [13] -> GRPVE [8] -> ISABELLA [10]
+
+---------------------------------------
+---------------------------------------
+ From City:      [6]IRWIN (FI), population 4120, elevation 932
+ To City:        [11]VINING (LV), population 8390, elevation 5983
+
+ The shortest distance from IRWIN to VINING is 83
+ through the route: IRWIN [6] -> BREA [3] -> VINING [11]
+
+---------------------------------------
+---------------------------------------
+ From City:      [6]IRWIN (FI), population 4120, elevation 932
+ To City:        [12]MOUNTAIN (MP), population 76, elevation 7190
+
+ The shortest distance from IRWIN to MOUNTAIN is 81
+ through the route: IRWIN [6] -> MOUNTAIN [12]
+
+---------------------------------------
+---------------------------------------
+ From City:      [6]IRWIN (FI), population 4120, elevation 932
+ To City:        [13]PARKER (PD), population 2190, elevation 1829
+
+ The shortest distance from IRWIN to PARKER is 11
+ through the route: IRWIN [6] -> PARKER [13]
+
+---------------------------------------
+---------------------------------------
+ From City:      [6]IRWIN (FI), population 4120, elevation 932
+ To City:        [14]POMONA (PM), population 698300, elevation 298
+
+ The shortest distance from IRWIN to POMONA is 144
+ through the route: IRWIN [6] -> PARKER [13] -> BOSSTOWN [2] -> TORRANCE [17] -> POMONA [14]
+
+---------------------------------------
+---------------------------------------
+ From City:      [6]IRWIN (FI), population 4120, elevation 932
+ To City:        [15]RIVERA (PR), population 189820, elevation 1190
+
+ The shortest distance from IRWIN to RIVERA is 82
+ through the route: IRWIN [6] -> BREA [3] -> CHINO [4] -> RIVERA [15]
+
+---------------------------------------
+---------------------------------------
+ From City:      [6]IRWIN (FI), population 4120, elevation 932
+ To City:        [16]BERNADINO (SB), population 1293200, elevation 1033
+
+ The shortest distance from IRWIN to BERNADINO is 107
+ through the route: IRWIN [6] -> MOUNTAIN [12] -> BERNADINO [16]
+
+---------------------------------------
+---------------------------------------
+ From City:      [6]IRWIN (FI), population 4120, elevation 932
+ To City:        [17]TORRANCE (TR), population 169400, elevation 829
+
+ The shortest distance from IRWIN to TORRANCE is 111
+ through the route: IRWIN [6] -> PARKER [13] -> BOSSTOWN [2] -> TORRANCE [17]
+
+---------------------------------------
+---------------------------------------
+ From City:      [6]IRWIN (FI), population 4120, elevation 932
+ To City:        [18]VICTORVILLE (VV), population 57460, elevation 2190
+
+ The shortest distance from IRWIN to VICTORVILLE is 56
+ through the route: IRWIN [6] -> ANAHEIM [0] -> VICTORVILLE [18]
+
+---------------------------------------
+---------------------------------------
+ From City:      [6]IRWIN (FI), population 4120, elevation 932
+ To City:        [19]WRIGHTWOOD (WW), population 9234, elevation 7910
+
+ The shortest distance from IRWIN to WRIGHTWOOD is 35
+ through the route: IRWIN [6] -> PARKER [13] -> GRPVE [8] -> WRIGHTWOOD [19]
+
+---------------------------------------
+---------------------------------------
+
+---------------------------------------
+ From City:      [7]GARDENA (GD), population 653210, elevation 674
+ To City:        [0]ANAHEIM (AN), population 1273000, elevation 310
+
+ The shortest distance from GARDENA to ANAHEIM is 67
+ through the route: GARDENA [7] -> EDWIN [5] -> ANAHEIM [0]
+
+---------------------------------------
+---------------------------------------
+ From City:      [7]GARDENA (GD), population 653210, elevation 674
+ To City:        [1]BAKERSFIELD (BK), population 31100, elevation 390
+
+ The shortest distance from GARDENA to BAKERSFIELD is 227
+ through the route: GARDENA [7] -> BOSSTOWN [2] -> BAKERSFIELD [1]
+
+---------------------------------------
+---------------------------------------
+ From City:      [7]GARDENA (GD), population 653210, elevation 674
+ To City:        [2]BOSSTOWN (BO), population 790, elevation 10
+
+ The shortest distance from GARDENA to BOSSTOWN is 210
+ through the route: GARDENA [7] -> BOSSTOWN [2]
+
+---------------------------------------
+---------------------------------------
+ From City:      [7]GARDENA (GD), population 653210, elevation 674
+ To City:        [3]BREA (BR), population 529000, elevation 1242
+
+ The shortest distance from GARDENA to BREA is 237
+ through the route: GARDENA [7] -> RIVERA [15] -> ISABELLA [10] -> BREA [3]
+
+---------------------------------------
+---------------------------------------
+ From City:      [7]GARDENA (GD), population 653210, elevation 674
+ To City:        [4]CHINO (CH), population 52200, elevation 1381
+
+ The shortest distance from GARDENA to CHINO is 177
+ through the route: GARDENA [7] -> EDWIN [5] -> ANAHEIM [0] -> VICTORVILLE [18] -> CHINO [4]
+
+---------------------------------------
+---------------------------------------
+ From City:      [7]GARDENA (GD), population 653210, elevation 674
+ To City:        [5]EDWIN (ED), population 12, elevation 8719
+
+ The shortest distance from GARDENA to EDWIN is 5
+ through the route: GARDENA [7] -> EDWIN [5]
+
+---------------------------------------
+---------------------------------------
+ From City:      [7]GARDENA (GD), population 653210, elevation 674
+ To City:        [6]IRWIN (FI), population 4120, elevation 932
+
+ The shortest distance from GARDENA to IRWIN is 341
+ through the route: GARDENA [7] -> BOSSTOWN [2] -> GRPVE [8] -> IRWIN [6]
+
+---------------------------------------
+---------------------------------------
+ From City:      [7]GARDENA (GD), population 653210, elevation 674
+ To City:        [7]GARDENA (GD), population 653210, elevation 674
+
+ The shortest distance from GARDENA to GARDENA is 0
+ through the route: GARDENA [7]
+
+---------------------------------------
+---------------------------------------
+ From City:      [7]GARDENA (GD), population 653210, elevation 674
+ To City:        [8]GRPVE (GG), population 913330, elevation 952
+
+ The shortest distance from GARDENA to GRPVE is 221
+ through the route: GARDENA [7] -> BOSSTOWN [2] -> GRPVE [8]
+
+---------------------------------------
+---------------------------------------
+ From City:      [7]GARDENA (GD), population 653210, elevation 674
+ To City:        [9]KERNVILLE (KV), population 6530, elevation 3925
+
+ The shortest distance from GARDENA to KERNVILLE is 205
+ through the route: GARDENA [7] -> RIVERA [15] -> TORRANCE [17] -> KERNVILLE [9]
+
+---------------------------------------
+---------------------------------------
+ From City:      [7]GARDENA (GD), population 653210, elevation 674
+ To City:        [10]ISABELLA (LI), population 981, elevation 2194
+
+ The shortest distance from GARDENA to ISABELLA is 147
+ through the route: GARDENA [7] -> RIVERA [15] -> ISABELLA [10]
+
+---------------------------------------
+---------------------------------------
+ From City:      [7]GARDENA (GD), population 653210, elevation 674
+ To City:        [11]VINING (LV), population 8390, elevation 5983
+
+ The shortest distance from GARDENA to VINING is 256
+ through the route: GARDENA [7] -> BOSSTOWN [2] -> BAKERSFIELD [1] -> VINING [11]
+
+---------------------------------------
+---------------------------------------
+ From City:      [7]GARDENA (GD), population 653210, elevation 674
+ To City:        [12]MOUNTAIN (MP), population 76, elevation 7190
+
+ The shortest distance from GARDENA to MOUNTAIN is 422
+ through the route: GARDENA [7] -> BOSSTOWN [2] -> GRPVE [8] -> IRWIN [6] -> MOUNTAIN [12]
+
+---------------------------------------
+---------------------------------------
+ From City:      [7]GARDENA (GD), population 653210, elevation 674
+ To City:        [13]PARKER (PD), population 2190, elevation 1829
+
+ The shortest distance from GARDENA to PARKER is 332
+ through the route: GARDENA [7] -> BOSSTOWN [2] -> PARKER [13]
+
+---------------------------------------
+---------------------------------------
+ From City:      [7]GARDENA (GD), population 653210, elevation 674
+ To City:        [14]POMONA (PM), population 698300, elevation 298
+
+ The shortest distance from GARDENA to POMONA is 205
+ through the route: GARDENA [7] -> RIVERA [15] -> TORRANCE [17] -> POMONA [14]
+
+---------------------------------------
+---------------------------------------
+ From City:      [7]GARDENA (GD), population 653210, elevation 674
+ To City:        [15]RIVERA (PR), population 189820, elevation 1190
+
+ The shortest distance from GARDENA to RIVERA is 74
+ through the route: GARDENA [7] -> RIVERA [15]
+
+---------------------------------------
+---------------------------------------
+ From City:      [7]GARDENA (GD), population 653210, elevation 674
+ To City:        [16]BERNADINO (SB), population 1293200, elevation 1033
+
+ The shortest distance from GARDENA to BERNADINO is 292
+ through the route: GARDENA [7] -> BOSSTOWN [2] -> BAKERSFIELD [1] -> BERNADINO [16]
+
+---------------------------------------
+---------------------------------------
+ From City:      [7]GARDENA (GD), population 653210, elevation 674
+ To City:        [17]TORRANCE (TR), population 169400, elevation 829
+
+ The shortest distance from GARDENA to TORRANCE is 172
+ through the route: GARDENA [7] -> RIVERA [15] -> TORRANCE [17]
+
+---------------------------------------
+---------------------------------------
+ From City:      [7]GARDENA (GD), population 653210, elevation 674
+ To City:        [18]VICTORVILLE (VV), population 57460, elevation 2190
+
+ The shortest distance from GARDENA to VICTORVILLE is 103
+ through the route: GARDENA [7] -> EDWIN [5] -> ANAHEIM [0] -> VICTORVILLE [18]
+
+---------------------------------------
+---------------------------------------
+ From City:      [7]GARDENA (GD), population 653210, elevation 674
+ To City:        [19]WRIGHTWOOD (WW), population 9234, elevation 7910
+
+ The shortest distance from GARDENA to WRIGHTWOOD is 232
+ through the route: GARDENA [7] -> BOSSTOWN [2] -> GRPVE [8] -> WRIGHTWOOD [19]
+
+---------------------------------------
+---------------------------------------
+
+---------------------------------------
+ From City:      [8]GRPVE (GG), population 913330, elevation 952
+ To City:        [0]ANAHEIM (AN), population 1273000, elevation 310
+
+ The shortest distance from GRPVE to ANAHEIM is 140
+ through the route: GRPVE [8] -> IRWIN [6] -> ANAHEIM [0]
+
+---------------------------------------
+---------------------------------------
+ From City:      [8]GRPVE (GG), population 913330, elevation 952
+ To City:        [1]BAKERSFIELD (BK), population 31100, elevation 390
+
+ The shortest distance from GRPVE to BAKERSFIELD is 83
+ through the route: GRPVE [8] -> ISABELLA [10] -> BAKERSFIELD [1]
+
+---------------------------------------
+---------------------------------------
+ From City:      [8]GRPVE (GG), population 913330, elevation 952
+ To City:        [2]BOSSTOWN (BO), population 790, elevation 10
+
+ The shortest distance from GRPVE to BOSSTOWN is 123
+ through the route: GRPVE [8] -> ISABELLA [10] -> BAKERSFIELD [1] -> VINING [11] -> BOSSTOWN [2]
+
+---------------------------------------
+---------------------------------------
+ From City:      [8]GRPVE (GG), population 913330, elevation 952
+ To City:        [3]BREA (BR), population 529000, elevation 1242
+
+ The shortest distance from GRPVE to BREA is 92
+ through the route: GRPVE [8] -> ISABELLA [10] -> BREA [3]
+
+---------------------------------------
+---------------------------------------
+ From City:      [8]GRPVE (GG), population 913330, elevation 952
+ To City:        [4]CHINO (CH), population 52200, elevation 1381
+
+ The shortest distance from GRPVE to CHINO is 121
+ through the route: GRPVE [8] -> ISABELLA [10] -> BREA [3] -> CHINO [4]
+
+---------------------------------------
+---------------------------------------
+ From City:      [8]GRPVE (GG), population 913330, elevation 952
+ To City:        [5]EDWIN (ED), population 12, elevation 8719
+
+ The shortest distance from GRPVE to EDWIN is 256
+ through the route: GRPVE [8] -> ISABELLA [10] -> BAKERSFIELD [1] -> VINING [11] -> BOSSTOWN [2] -> TORRANCE [17] -> POMONA [14] -> EDWIN [5]
+
+---------------------------------------
+---------------------------------------
+ From City:      [8]GRPVE (GG), population 913330, elevation 952
+ To City:        [6]IRWIN (FI), population 4120, elevation 932
+
+ The shortest distance from GRPVE to IRWIN is 120
+ through the route: GRPVE [8] -> IRWIN [6]
+
+---------------------------------------
+---------------------------------------
+ From City:      [8]GRPVE (GG), population 913330, elevation 952
+ To City:        [7]GARDENA (GD), population 653210, elevation 674
+
+ The shortest distance from GRPVE to GARDENA is 230
+ through the route: GRPVE [8] -> ISABELLA [10] -> BAKERSFIELD [1] -> VINING [11] -> BOSSTOWN [2] -> TORRANCE [17] -> GARDENA [7]
+
+---------------------------------------
+---------------------------------------
+ From City:      [8]GRPVE (GG), population 913330, elevation 952
+ To City:        [8]GRPVE (GG), population 913330, elevation 952
+
+ The shortest distance from GRPVE to GRPVE is 0
+ through the route: GRPVE [8]
+
+---------------------------------------
+---------------------------------------
+ From City:      [8]GRPVE (GG), population 913330, elevation 952
+ To City:        [9]KERNVILLE (KV), population 6530, elevation 3925
+
+ The shortest distance from GRPVE to KERNVILLE is 208
+ through the route: GRPVE [8] -> ISABELLA [10] -> BAKERSFIELD [1] -> VICTORVILLE [18] -> KERNVILLE [9]
+
+---------------------------------------
+---------------------------------------
+ From City:      [8]GRPVE (GG), population 913330, elevation 952
+ To City:        [10]ISABELLA (LI), population 981, elevation 2194
+
+ The shortest distance from GRPVE to ISABELLA is 2
+ through the route: GRPVE [8] -> ISABELLA [10]
+
+---------------------------------------
+---------------------------------------
+ From City:      [8]GRPVE (GG), population 913330, elevation 952
+ To City:        [11]VINING (LV), population 8390, elevation 5983
+
+ The shortest distance from GRPVE to VINING is 112
+ through the route: GRPVE [8] -> ISABELLA [10] -> BAKERSFIELD [1] -> VINING [11]
+
+---------------------------------------
+---------------------------------------
+ From City:      [8]GRPVE (GG), population 913330, elevation 952
+ To City:        [12]MOUNTAIN (MP), population 76, elevation 7190
+
+ The shortest distance from GRPVE to MOUNTAIN is 201
+ through the route: GRPVE [8] -> IRWIN [6] -> MOUNTAIN [12]
+
+---------------------------------------
+---------------------------------------
+ From City:      [8]GRPVE (GG), population 913330, elevation 952
+ To City:        [13]PARKER (PD), population 2190, elevation 1829
+
+ The shortest distance from GRPVE to PARKER is 131
+ through the route: GRPVE [8] -> IRWIN [6] -> PARKER [13]
+
+---------------------------------------
+---------------------------------------
+ From City:      [8]GRPVE (GG), population 913330, elevation 952
+ To City:        [14]POMONA (PM), population 698300, elevation 298
+
+ The shortest distance from GRPVE to POMONA is 234
+ through the route: GRPVE [8] -> ISABELLA [10] -> BAKERSFIELD [1] -> VINING [11] -> BOSSTOWN [2] -> TORRANCE [17] -> POMONA [14]
+
+---------------------------------------
+---------------------------------------
+ From City:      [8]GRPVE (GG), population 913330, elevation 952
+ To City:        [15]RIVERA (PR), population 189820, elevation 1190
+
+ The shortest distance from GRPVE to RIVERA is 133
+ through the route: GRPVE [8] -> ISABELLA [10] -> BREA [3] -> CHINO [4] -> RIVERA [15]
+
+---------------------------------------
+---------------------------------------
+ From City:      [8]GRPVE (GG), population 913330, elevation 952
+ To City:        [16]BERNADINO (SB), population 1293200, elevation 1033
+
+ The shortest distance from GRPVE to BERNADINO is 148
+ through the route: GRPVE [8] -> ISABELLA [10] -> BAKERSFIELD [1] -> BERNADINO [16]
+
+---------------------------------------
+---------------------------------------
+ From City:      [8]GRPVE (GG), population 913330, elevation 952
+ To City:        [17]TORRANCE (TR), population 169400, elevation 829
+
+ The shortest distance from GRPVE to TORRANCE is 201
+ through the route: GRPVE [8] -> ISABELLA [10] -> BAKERSFIELD [1] -> VINING [11] -> BOSSTOWN [2] -> TORRANCE [17]
+
+---------------------------------------
+---------------------------------------
+ From City:      [8]GRPVE (GG), population 913330, elevation 952
+ To City:        [18]VICTORVILLE (VV), population 57460, elevation 2190
+
+ The shortest distance from GRPVE to VICTORVILLE is 97
+ through the route: GRPVE [8] -> ISABELLA [10] -> BAKERSFIELD [1] -> VICTORVILLE [18]
+
+---------------------------------------
+---------------------------------------
+ From City:      [8]GRPVE (GG), population 913330, elevation 952
+ To City:        [19]WRIGHTWOOD (WW), population 9234, elevation 7910
+
+ The shortest distance from GRPVE to WRIGHTWOOD is 11
+ through the route: GRPVE [8] -> WRIGHTWOOD [19]
+
+---------------------------------------
+---------------------------------------
+
+---------------------------------------
+ From City:      [9]KERNVILLE (KV), population 6530, elevation 3925
+ To City:        [0]ANAHEIM (AN), population 1273000, elevation 310
+
+ The shortest distance from KERNVILLE to ANAHEIM is 215
+ through the route: KERNVILLE [9] -> VINING [11] -> BOSSTOWN [2] -> BAKERSFIELD [1] -> ANAHEIM [0]
+
+---------------------------------------
+---------------------------------------
+ From City:      [9]KERNVILLE (KV), population 6530, elevation 3925
+ To City:        [1]BAKERSFIELD (BK), population 31100, elevation 390
+
+ The shortest distance from KERNVILLE to BAKERSFIELD is 149
+ through the route: KERNVILLE [9] -> VINING [11] -> BOSSTOWN [2] -> BAKERSFIELD [1]
+
+---------------------------------------
+---------------------------------------
+ From City:      [9]KERNVILLE (KV), population 6530, elevation 3925
+ To City:        [2]BOSSTOWN (BO), population 790, elevation 10
+
+ The shortest distance from KERNVILLE to BOSSTOWN is 132
+ through the route: KERNVILLE [9] -> VINING [11] -> BOSSTOWN [2]
+
+---------------------------------------
+---------------------------------------
+ From City:      [9]KERNVILLE (KV), population 6530, elevation 3925
+ To City:        [3]BREA (BR), population 529000, elevation 1242
+
+ The shortest distance from KERNVILLE to BREA is 235
+ through the route: KERNVILLE [9] -> VINING [11] -> BOSSTOWN [2] -> GRPVE [8] -> ISABELLA [10] -> BREA [3]
+
+---------------------------------------
+---------------------------------------
+ From City:      [9]KERNVILLE (KV), population 6530, elevation 3925
+ To City:        [4]CHINO (CH), population 52200, elevation 1381
+
+ The shortest distance from KERNVILLE to CHINO is 219
+ through the route: KERNVILLE [9] -> VINING [11] -> CHINO [4]
+
+---------------------------------------
+---------------------------------------
+ From City:      [9]KERNVILLE (KV), population 6530, elevation 3925
+ To City:        [5]EDWIN (ED), population 12, elevation 8719
+
+ The shortest distance from KERNVILLE to EDWIN is 265
+ through the route: KERNVILLE [9] -> VINING [11] -> BOSSTOWN [2] -> TORRANCE [17] -> POMONA [14] -> EDWIN [5]
+
+---------------------------------------
+---------------------------------------
+ From City:      [9]KERNVILLE (KV), population 6530, elevation 3925
+ To City:        [6]IRWIN (FI), population 4120, elevation 932
+
+ The shortest distance from KERNVILLE to IRWIN is 243
+ through the route: KERNVILLE [9] -> VINING [11] -> IRWIN [6]
+
+---------------------------------------
+---------------------------------------
+ From City:      [9]KERNVILLE (KV), population 6530, elevation 3925
+ To City:        [7]GARDENA (GD), population 653210, elevation 674
+
+ The shortest distance from KERNVILLE to GARDENA is 239
+ through the route: KERNVILLE [9] -> VINING [11] -> BOSSTOWN [2] -> TORRANCE [17] -> GARDENA [7]
+
+---------------------------------------
+---------------------------------------
+ From City:      [9]KERNVILLE (KV), population 6530, elevation 3925
+ To City:        [8]GRPVE (GG), population 913330, elevation 952
+
+ The shortest distance from KERNVILLE to GRPVE is 143
+ through the route: KERNVILLE [9] -> VINING [11] -> BOSSTOWN [2] -> GRPVE [8]
+
+---------------------------------------
+---------------------------------------
+ From City:      [9]KERNVILLE (KV), population 6530, elevation 3925
+ To City:        [9]KERNVILLE (KV), population 6530, elevation 3925
+
+ The shortest distance from KERNVILLE to KERNVILLE is 0
+ through the route: KERNVILLE [9]
+
+---------------------------------------
+---------------------------------------
+ From City:      [9]KERNVILLE (KV), population 6530, elevation 3925
+ To City:        [10]ISABELLA (LI), population 981, elevation 2194
+
+ The shortest distance from KERNVILLE to ISABELLA is 145
+ through the route: KERNVILLE [9] -> VINING [11] -> BOSSTOWN [2] -> GRPVE [8] -> ISABELLA [10]
+
+---------------------------------------
+---------------------------------------
+ From City:      [9]KERNVILLE (KV), population 6530, elevation 3925
+ To City:        [11]VINING (LV), population 8390, elevation 5983
+
+ The shortest distance from KERNVILLE to VINING is 121
+ through the route: KERNVILLE [9] -> VINING [11]
+
+---------------------------------------
+---------------------------------------
+ From City:      [9]KERNVILLE (KV), population 6530, elevation 3925
+ To City:        [12]MOUNTAIN (MP), population 76, elevation 7190
+
+ The shortest distance from KERNVILLE to MOUNTAIN is 324
+ through the route: KERNVILLE [9] -> VINING [11] -> IRWIN [6] -> MOUNTAIN [12]
+
+---------------------------------------
+---------------------------------------
+ From City:      [9]KERNVILLE (KV), population 6530, elevation 3925
+ To City:        [13]PARKER (PD), population 2190, elevation 1829
+
+ The shortest distance from KERNVILLE to PARKER is 254
+ through the route: KERNVILLE [9] -> VINING [11] -> BOSSTOWN [2] -> PARKER [13]
+
+---------------------------------------
+---------------------------------------
+ From City:      [9]KERNVILLE (KV), population 6530, elevation 3925
+ To City:        [14]POMONA (PM), population 698300, elevation 298
+
+ The shortest distance from KERNVILLE to POMONA is 243
+ through the route: KERNVILLE [9] -> VINING [11] -> BOSSTOWN [2] -> TORRANCE [17] -> POMONA [14]
+
+---------------------------------------
+---------------------------------------
+ From City:      [9]KERNVILLE (KV), population 6530, elevation 3925
+ To City:        [15]RIVERA (PR), population 189820, elevation 1190
+
+ The shortest distance from KERNVILLE to RIVERA is 231
+ through the route: KERNVILLE [9] -> VINING [11] -> CHINO [4] -> RIVERA [15]
+
+---------------------------------------
+---------------------------------------
+ From City:      [9]KERNVILLE (KV), population 6530, elevation 3925
+ To City:        [16]BERNADINO (SB), population 1293200, elevation 1033
+
+ The shortest distance from KERNVILLE to BERNADINO is 214
+ through the route: KERNVILLE [9] -> VINING [11] -> BOSSTOWN [2] -> BAKERSFIELD [1] -> BERNADINO [16]
+
+---------------------------------------
+---------------------------------------
+ From City:      [9]KERNVILLE (KV), population 6530, elevation 3925
+ To City:        [17]TORRANCE (TR), population 169400, elevation 829
+
+ The shortest distance from KERNVILLE to TORRANCE is 210
+ through the route: KERNVILLE [9] -> VINING [11] -> BOSSTOWN [2] -> TORRANCE [17]
+
+---------------------------------------
+---------------------------------------
+ From City:      [9]KERNVILLE (KV), population 6530, elevation 3925
+ To City:        [18]VICTORVILLE (VV), population 57460, elevation 2190
+
+ The shortest distance from KERNVILLE to VICTORVILLE is 163
+ through the route: KERNVILLE [9] -> VINING [11] -> BOSSTOWN [2] -> BAKERSFIELD [1] -> VICTORVILLE [18]
+
+---------------------------------------
+---------------------------------------
+ From City:      [9]KERNVILLE (KV), population 6530, elevation 3925
+ To City:        [19]WRIGHTWOOD (WW), population 9234, elevation 7910
+
+ The shortest distance from KERNVILLE to WRIGHTWOOD is 154
+ through the route: KERNVILLE [9] -> VINING [11] -> BOSSTOWN [2] -> GRPVE [8] -> WRIGHTWOOD [19]
+
+---------------------------------------
+---------------------------------------
+
+---------------------------------------
+ From City:      [10]ISABELLA (LI), population 981, elevation 2194
+ To City:        [0]ANAHEIM (AN), population 1273000, elevation 310
+
+ The shortest distance from ISABELLA to ANAHEIM is 147
+ through the route: ISABELLA [10] -> BAKERSFIELD [1] -> ANAHEIM [0]
+
+---------------------------------------
+---------------------------------------
+ From City:      [10]ISABELLA (LI), population 981, elevation 2194
+ To City:        [1]BAKERSFIELD (BK), population 31100, elevation 390
+
+ The shortest distance from ISABELLA to BAKERSFIELD is 81
+ through the route: ISABELLA [10] -> BAKERSFIELD [1]
+
+---------------------------------------
+---------------------------------------
+ From City:      [10]ISABELLA (LI), population 981, elevation 2194
+ To City:        [2]BOSSTOWN (BO), population 790, elevation 10
+
+ The shortest distance from ISABELLA to BOSSTOWN is 121
+ through the route: ISABELLA [10] -> BAKERSFIELD [1] -> VINING [11] -> BOSSTOWN [2]
+
+---------------------------------------
+---------------------------------------
+ From City:      [10]ISABELLA (LI), population 981, elevation 2194
+ To City:        [3]BREA (BR), population 529000, elevation 1242
+
+ The shortest distance from ISABELLA to BREA is 90
+ through the route: ISABELLA [10] -> BREA [3]
+
+---------------------------------------
+---------------------------------------
+ From City:      [10]ISABELLA (LI), population 981, elevation 2194
+ To City:        [4]CHINO (CH), population 52200, elevation 1381
+
+ The shortest distance from ISABELLA to CHINO is 119
+ through the route: ISABELLA [10] -> BREA [3] -> CHINO [4]
+
+---------------------------------------
+---------------------------------------
+ From City:      [10]ISABELLA (LI), population 981, elevation 2194
+ To City:        [5]EDWIN (ED), population 12, elevation 8719
+
+ The shortest distance from ISABELLA to EDWIN is 233
+ through the route: ISABELLA [10] -> BAKERSFIELD [1] -> VINING [11] -> BOSSTOWN [2] -> TORRANCE [17] -> GARDENA [7] -> EDWIN [5]
+
+---------------------------------------
+---------------------------------------
+ From City:      [10]ISABELLA (LI), population 981, elevation 2194
+ To City:        [6]IRWIN (FI), population 4120, elevation 932
+
+ The shortest distance from ISABELLA to IRWIN is 232
+ through the route: ISABELLA [10] -> BAKERSFIELD [1] -> VINING [11] -> IRWIN [6]
+
+---------------------------------------
+---------------------------------------
+ From City:      [10]ISABELLA (LI), population 981, elevation 2194
+ To City:        [7]GARDENA (GD), population 653210, elevation 674
+
+ The shortest distance from ISABELLA to GARDENA is 228
+ through the route: ISABELLA [10] -> BAKERSFIELD [1] -> VINING [11] -> BOSSTOWN [2] -> TORRANCE [17] -> GARDENA [7]
+
+---------------------------------------
+---------------------------------------
+ From City:      [10]ISABELLA (LI), population 981, elevation 2194
+ To City:        [8]GRPVE (GG), population 913330, elevation 952
+
+ The shortest distance from ISABELLA to GRPVE is 132
+ through the route: ISABELLA [10] -> BAKERSFIELD [1] -> VINING [11] -> BOSSTOWN [2] -> GRPVE [8]
+
+---------------------------------------
+---------------------------------------
+ From City:      [10]ISABELLA (LI), population 981, elevation 2194
+ To City:        [9]KERNVILLE (KV), population 6530, elevation 3925
+
+ The shortest distance from ISABELLA to KERNVILLE is 206
+ through the route: ISABELLA [10] -> BAKERSFIELD [1] -> VICTORVILLE [18] -> KERNVILLE [9]
+
+---------------------------------------
+---------------------------------------
+ From City:      [10]ISABELLA (LI), population 981, elevation 2194
+ To City:        [10]ISABELLA (LI), population 981, elevation 2194
+
+ The shortest distance from ISABELLA to ISABELLA is 0
+ through the route: ISABELLA [10]
+
+---------------------------------------
+---------------------------------------
+ From City:      [10]ISABELLA (LI), population 981, elevation 2194
+ To City:        [11]VINING (LV), population 8390, elevation 5983
+
+ The shortest distance from ISABELLA to VINING is 110
+ through the route: ISABELLA [10] -> BAKERSFIELD [1] -> VINING [11]
+
+---------------------------------------
+---------------------------------------
+ From City:      [10]ISABELLA (LI), population 981, elevation 2194
+ To City:        [12]MOUNTAIN (MP), population 76, elevation 7190
+
+ The shortest distance from ISABELLA to MOUNTAIN is 313
+ through the route: ISABELLA [10] -> BAKERSFIELD [1] -> VINING [11] -> IRWIN [6] -> MOUNTAIN [12]
+
+---------------------------------------
+---------------------------------------
+ From City:      [10]ISABELLA (LI), population 981, elevation 2194
+ To City:        [13]PARKER (PD), population 2190, elevation 1829
+
+ The shortest distance from ISABELLA to PARKER is 243
+ through the route: ISABELLA [10] -> BAKERSFIELD [1] -> VINING [11] -> IRWIN [6] -> PARKER [13]
+
+---------------------------------------
+---------------------------------------
+ From City:      [10]ISABELLA (LI), population 981, elevation 2194
+ To City:        [14]POMONA (PM), population 698300, elevation 298
+
+ The shortest distance from ISABELLA to POMONA is 232
+ through the route: ISABELLA [10] -> BAKERSFIELD [1] -> VINING [11] -> BOSSTOWN [2] -> TORRANCE [17] -> POMONA [14]
+
+---------------------------------------
+---------------------------------------
+ From City:      [10]ISABELLA (LI), population 981, elevation 2194
+ To City:        [15]RIVERA (PR), population 189820, elevation 1190
+
+ The shortest distance from ISABELLA to RIVERA is 131
+ through the route: ISABELLA [10] -> BREA [3] -> CHINO [4] -> RIVERA [15]
+
+---------------------------------------
+---------------------------------------
+ From City:      [10]ISABELLA (LI), population 981, elevation 2194
+ To City:        [16]BERNADINO (SB), population 1293200, elevation 1033
+
+ The shortest distance from ISABELLA to BERNADINO is 146
+ through the route: ISABELLA [10] -> BAKERSFIELD [1] -> BERNADINO [16]
+
+---------------------------------------
+---------------------------------------
+ From City:      [10]ISABELLA (LI), population 981, elevation 2194
+ To City:        [17]TORRANCE (TR), population 169400, elevation 829
+
+ The shortest distance from ISABELLA to TORRANCE is 199
+ through the route: ISABELLA [10] -> BAKERSFIELD [1] -> VINING [11] -> BOSSTOWN [2] -> TORRANCE [17]
+
+---------------------------------------
+---------------------------------------
+ From City:      [10]ISABELLA (LI), population 981, elevation 2194
+ To City:        [18]VICTORVILLE (VV), population 57460, elevation 2190
+
+ The shortest distance from ISABELLA to VICTORVILLE is 95
+ through the route: ISABELLA [10] -> BAKERSFIELD [1] -> VICTORVILLE [18]
+
+---------------------------------------
+---------------------------------------
+ From City:      [10]ISABELLA (LI), population 981, elevation 2194
+ To City:        [19]WRIGHTWOOD (WW), population 9234, elevation 7910
+
+ The shortest distance from ISABELLA to WRIGHTWOOD is 143
+ through the route: ISABELLA [10] -> BAKERSFIELD [1] -> VINING [11] -> BOSSTOWN [2] -> GRPVE [8] -> WRIGHTWOOD [19]
+
+---------------------------------------
+---------------------------------------
+
+---------------------------------------
+ From City:      [11]VINING (LV), population 8390, elevation 5983
+ To City:        [0]ANAHEIM (AN), population 1273000, elevation 310
+
+ The shortest distance from VINING to ANAHEIM is 94
+ through the route: VINING [11] -> BOSSTOWN [2] -> BAKERSFIELD [1] -> ANAHEIM [0]
+
+---------------------------------------
+---------------------------------------
+ From City:      [11]VINING (LV), population 8390, elevation 5983
+ To City:        [1]BAKERSFIELD (BK), population 31100, elevation 390
+
+ The shortest distance from VINING to BAKERSFIELD is 28
+ through the route: VINING [11] -> BOSSTOWN [2] -> BAKERSFIELD [1]
+
+---------------------------------------
+---------------------------------------
+ From City:      [11]VINING (LV), population 8390, elevation 5983
+ To City:        [2]BOSSTOWN (BO), population 790, elevation 10
+
+ The shortest distance from VINING to BOSSTOWN is 11
+ through the route: VINING [11] -> BOSSTOWN [2]
+
+---------------------------------------
+---------------------------------------
+ From City:      [11]VINING (LV), population 8390, elevation 5983
+ To City:        [3]BREA (BR), population 529000, elevation 1242
+
+ The shortest distance from VINING to BREA is 114
+ through the route: VINING [11] -> BOSSTOWN [2] -> GRPVE [8] -> ISABELLA [10] -> BREA [3]
+
+---------------------------------------
+---------------------------------------
+ From City:      [11]VINING (LV), population 8390, elevation 5983
+ To City:        [4]CHINO (CH), population 52200, elevation 1381
+
+ The shortest distance from VINING to CHINO is 98
+ through the route: VINING [11] -> CHINO [4]
+
+---------------------------------------
+---------------------------------------
+ From City:      [11]VINING (LV), population 8390, elevation 5983
+ To City:        [5]EDWIN (ED), population 12, elevation 8719
+
+ The shortest distance from VINING to EDWIN is 144
+ through the route: VINING [11] -> BOSSTOWN [2] -> TORRANCE [17] -> POMONA [14] -> EDWIN [5]
+
+---------------------------------------
+---------------------------------------
+ From City:      [11]VINING (LV), population 8390, elevation 5983
+ To City:        [6]IRWIN (FI), population 4120, elevation 932
+
+ The shortest distance from VINING to IRWIN is 122
+ through the route: VINING [11] -> IRWIN [6]
+
+---------------------------------------
+---------------------------------------
+ From City:      [11]VINING (LV), population 8390, elevation 5983
+ To City:        [7]GARDENA (GD), population 653210, elevation 674
+
+ The shortest distance from VINING to GARDENA is 118
+ through the route: VINING [11] -> BOSSTOWN [2] -> TORRANCE [17] -> GARDENA [7]
+
+---------------------------------------
+---------------------------------------
+ From City:      [11]VINING (LV), population 8390, elevation 5983
+ To City:        [8]GRPVE (GG), population 913330, elevation 952
+
+ The shortest distance from VINING to GRPVE is 22
+ through the route: VINING [11] -> BOSSTOWN [2] -> GRPVE [8]
+
+---------------------------------------
+---------------------------------------
+ From City:      [11]VINING (LV), population 8390, elevation 5983
+ To City:        [9]KERNVILLE (KV), population 6530, elevation 3925
+
+ The shortest distance from VINING to KERNVILLE is 122
+ through the route: VINING [11] -> BOSSTOWN [2] -> TORRANCE [17] -> KERNVILLE [9]
+
+---------------------------------------
+---------------------------------------
+ From City:      [11]VINING (LV), population 8390, elevation 5983
+ To City:        [10]ISABELLA (LI), population 981, elevation 2194
+
+ The shortest distance from VINING to ISABELLA is 24
+ through the route: VINING [11] -> BOSSTOWN [2] -> GRPVE [8] -> ISABELLA [10]
+
+---------------------------------------
+---------------------------------------
+ From City:      [11]VINING (LV), population 8390, elevation 5983
+ To City:        [11]VINING (LV), population 8390, elevation 5983
+
+ The shortest distance from VINING to VINING is 0
+ through the route: VINING [11]
+
+---------------------------------------
+---------------------------------------
+ From City:      [11]VINING (LV), population 8390, elevation 5983
+ To City:        [12]MOUNTAIN (MP), population 76, elevation 7190
+
+ The shortest distance from VINING to MOUNTAIN is 203
+ through the route: VINING [11] -> IRWIN [6] -> MOUNTAIN [12]
+
+---------------------------------------
+---------------------------------------
+ From City:      [11]VINING (LV), population 8390, elevation 5983
+ To City:        [13]PARKER (PD), population 2190, elevation 1829
+
+ The shortest distance from VINING to PARKER is 133
+ through the route: VINING [11] -> IRWIN [6] -> PARKER [13]
+
+---------------------------------------
+---------------------------------------
+ From City:      [11]VINING (LV), population 8390, elevation 5983
+ To City:        [14]POMONA (PM), population 698300, elevation 298
+
+ The shortest distance from VINING to POMONA is 122
+ through the route: VINING [11] -> BOSSTOWN [2] -> TORRANCE [17] -> POMONA [14]
+
+---------------------------------------
+---------------------------------------
+ From City:      [11]VINING (LV), population 8390, elevation 5983
+ To City:        [15]RIVERA (PR), population 189820, elevation 1190
+
+ The shortest distance from VINING to RIVERA is 110
+ through the route: VINING [11] -> CHINO [4] -> RIVERA [15]
+
+---------------------------------------
+---------------------------------------
+ From City:      [11]VINING (LV), population 8390, elevation 5983
+ To City:        [16]BERNADINO (SB), population 1293200, elevation 1033
+
+ The shortest distance from VINING to BERNADINO is 93
+ through the route: VINING [11] -> BOSSTOWN [2] -> BAKERSFIELD [1] -> BERNADINO [16]
+
+---------------------------------------
+---------------------------------------
+ From City:      [11]VINING (LV), population 8390, elevation 5983
+ To City:        [17]TORRANCE (TR), population 169400, elevation 829
+
+ The shortest distance from VINING to TORRANCE is 89
+ through the route: VINING [11] -> BOSSTOWN [2] -> TORRANCE [17]
+
+---------------------------------------
+---------------------------------------
+ From City:      [11]VINING (LV), population 8390, elevation 5983
+ To City:        [18]VICTORVILLE (VV), population 57460, elevation 2190
+
+ The shortest distance from VINING to VICTORVILLE is 42
+ through the route: VINING [11] -> BOSSTOWN [2] -> BAKERSFIELD [1] -> VICTORVILLE [18]
+
+---------------------------------------
+---------------------------------------
+ From City:      [11]VINING (LV), population 8390, elevation 5983
+ To City:        [19]WRIGHTWOOD (WW), population 9234, elevation 7910
+
+ The shortest distance from VINING to WRIGHTWOOD is 33
+ through the route: VINING [11] -> BOSSTOWN [2] -> GRPVE [8] -> WRIGHTWOOD [19]
+
+---------------------------------------
+---------------------------------------
+
+---------------------------------------
+ From City:      [12]MOUNTAIN (MP), population 76, elevation 7190
+ To City:        [0]ANAHEIM (AN), population 1273000, elevation 310
+
+ The shortest distance from MOUNTAIN to ANAHEIM is 103
+ through the route: MOUNTAIN [12] -> BERNADINO [16] -> ANAHEIM [0]
+
+---------------------------------------
+---------------------------------------
+ From City:      [12]MOUNTAIN (MP), population 76, elevation 7190
+ To City:        [1]BAKERSFIELD (BK), population 31100, elevation 390
+
+ The shortest distance from MOUNTAIN to BAKERSFIELD is 92
+ through the route: MOUNTAIN [12] -> GRPVE [8] -> ISABELLA [10] -> BAKERSFIELD [1]
+
+---------------------------------------
+---------------------------------------
+ From City:      [12]MOUNTAIN (MP), population 76, elevation 7190
+ To City:        [2]BOSSTOWN (BO), population 790, elevation 10
+
+ The shortest distance from MOUNTAIN to BOSSTOWN is 130
+ through the route: MOUNTAIN [12] -> BERNADINO [16] -> VINING [11] -> BOSSTOWN [2]
+
+---------------------------------------
+---------------------------------------
+ From City:      [12]MOUNTAIN (MP), population 76, elevation 7190
+ To City:        [3]BREA (BR), population 529000, elevation 1242
+
+ The shortest distance from MOUNTAIN to BREA is 101
+ through the route: MOUNTAIN [12] -> GRPVE [8] -> ISABELLA [10] -> BREA [3]
+
+---------------------------------------
+---------------------------------------
+ From City:      [12]MOUNTAIN (MP), population 76, elevation 7190
+ To City:        [4]CHINO (CH), population 52200, elevation 1381
+
+ The shortest distance from MOUNTAIN to CHINO is 130
+ through the route: MOUNTAIN [12] -> GRPVE [8] -> ISABELLA [10] -> BREA [3] -> CHINO [4]
+
+---------------------------------------
+---------------------------------------
+ From City:      [12]MOUNTAIN (MP), population 76, elevation 7190
+ To City:        [5]EDWIN (ED), population 12, elevation 8719
+
+ The shortest distance from MOUNTAIN to EDWIN is 242
+ through the route: MOUNTAIN [12] -> BERNADINO [16] -> VINING [11] -> BOSSTOWN [2] -> TORRANCE [17] -> GARDENA [7] -> EDWIN [5]
+
+---------------------------------------
+---------------------------------------
+ From City:      [12]MOUNTAIN (MP), population 76, elevation 7190
+ To City:        [6]IRWIN (FI), population 4120, elevation 932
+
+ The shortest distance from MOUNTAIN to IRWIN is 129
+ through the route: MOUNTAIN [12] -> GRPVE [8] -> IRWIN [6]
+
+---------------------------------------
+---------------------------------------
+ From City:      [12]MOUNTAIN (MP), population 76, elevation 7190
+ To City:        [7]GARDENA (GD), population 653210, elevation 674
+
+ The shortest distance from MOUNTAIN to GARDENA is 237
+ through the route: MOUNTAIN [12] -> BERNADINO [16] -> VINING [11] -> BOSSTOWN [2] -> TORRANCE [17] -> GARDENA [7]
+
+---------------------------------------
+---------------------------------------
+ From City:      [12]MOUNTAIN (MP), population 76, elevation 7190
+ To City:        [8]GRPVE (GG), population 913330, elevation 952
+
+ The shortest distance from MOUNTAIN to GRPVE is 9
+ through the route: MOUNTAIN [12] -> GRPVE [8]
+
+---------------------------------------
+---------------------------------------
+ From City:      [12]MOUNTAIN (MP), population 76, elevation 7190
+ To City:        [9]KERNVILLE (KV), population 6530, elevation 3925
+
+ The shortest distance from MOUNTAIN to KERNVILLE is 217
+ through the route: MOUNTAIN [12] -> GRPVE [8] -> ISABELLA [10] -> BAKERSFIELD [1] -> VICTORVILLE [18] -> KERNVILLE [9]
+
+---------------------------------------
+---------------------------------------
+ From City:      [12]MOUNTAIN (MP), population 76, elevation 7190
+ To City:        [10]ISABELLA (LI), population 981, elevation 2194
+
+ The shortest distance from MOUNTAIN to ISABELLA is 11
+ through the route: MOUNTAIN [12] -> GRPVE [8] -> ISABELLA [10]
+
+---------------------------------------
+---------------------------------------
+ From City:      [12]MOUNTAIN (MP), population 76, elevation 7190
+ To City:        [11]VINING (LV), population 8390, elevation 5983
+
+ The shortest distance from MOUNTAIN to VINING is 119
+ through the route: MOUNTAIN [12] -> BERNADINO [16] -> VINING [11]
+
+---------------------------------------
+---------------------------------------
+ From City:      [12]MOUNTAIN (MP), population 76, elevation 7190
+ To City:        [12]MOUNTAIN (MP), population 76, elevation 7190
+
+ The shortest distance from MOUNTAIN to MOUNTAIN is 0
+ through the route: MOUNTAIN [12]
+
+---------------------------------------
+---------------------------------------
+ From City:      [12]MOUNTAIN (MP), population 76, elevation 7190
+ To City:        [13]PARKER (PD), population 2190, elevation 1829
+
+ The shortest distance from MOUNTAIN to PARKER is 140
+ through the route: MOUNTAIN [12] -> GRPVE [8] -> IRWIN [6] -> PARKER [13]
+
+---------------------------------------
+---------------------------------------
+ From City:      [12]MOUNTAIN (MP), population 76, elevation 7190
+ To City:        [14]POMONA (PM), population 698300, elevation 298
+
+ The shortest distance from MOUNTAIN to POMONA is 241
+ through the route: MOUNTAIN [12] -> BERNADINO [16] -> VINING [11] -> BOSSTOWN [2] -> TORRANCE [17] -> POMONA [14]
+
+---------------------------------------
+---------------------------------------
+ From City:      [12]MOUNTAIN (MP), population 76, elevation 7190
+ To City:        [15]RIVERA (PR), population 189820, elevation 1190
+
+ The shortest distance from MOUNTAIN to RIVERA is 142
+ through the route: MOUNTAIN [12] -> GRPVE [8] -> ISABELLA [10] -> BREA [3] -> CHINO [4] -> RIVERA [15]
+
+---------------------------------------
+---------------------------------------
+ From City:      [12]MOUNTAIN (MP), population 76, elevation 7190
+ To City:        [16]BERNADINO (SB), population 1293200, elevation 1033
+
+ The shortest distance from MOUNTAIN to BERNADINO is 26
+ through the route: MOUNTAIN [12] -> BERNADINO [16]
+
+---------------------------------------
+---------------------------------------
+ From City:      [12]MOUNTAIN (MP), population 76, elevation 7190
+ To City:        [17]TORRANCE (TR), population 169400, elevation 829
+
+ The shortest distance from MOUNTAIN to TORRANCE is 208
+ through the route: MOUNTAIN [12] -> BERNADINO [16] -> VINING [11] -> BOSSTOWN [2] -> TORRANCE [17]
+
+---------------------------------------
+---------------------------------------
+ From City:      [12]MOUNTAIN (MP), population 76, elevation 7190
+ To City:        [18]VICTORVILLE (VV), population 57460, elevation 2190
+
+ The shortest distance from MOUNTAIN to VICTORVILLE is 106
+ through the route: MOUNTAIN [12] -> GRPVE [8] -> ISABELLA [10] -> BAKERSFIELD [1] -> VICTORVILLE [18]
+
+---------------------------------------
+---------------------------------------
+ From City:      [12]MOUNTAIN (MP), population 76, elevation 7190
+ To City:        [19]WRIGHTWOOD (WW), population 9234, elevation 7910
+
+ The shortest distance from MOUNTAIN to WRIGHTWOOD is 20
+ through the route: MOUNTAIN [12] -> GRPVE [8] -> WRIGHTWOOD [19]
+
+---------------------------------------
+---------------------------------------
+
+---------------------------------------
+ From City:      [13]PARKER (PD), population 2190, elevation 1829
+ To City:        [0]ANAHEIM (AN), population 1273000, elevation 310
+
+ The shortest distance from PARKER to ANAHEIM is 105
+ through the route: PARKER [13] -> BOSSTOWN [2] -> BAKERSFIELD [1] -> ANAHEIM [0]
+
+---------------------------------------
+---------------------------------------
+ From City:      [13]PARKER (PD), population 2190, elevation 1829
+ To City:        [1]BAKERSFIELD (BK), population 31100, elevation 390
+
+ The shortest distance from PARKER to BAKERSFIELD is 39
+ through the route: PARKER [13] -> BOSSTOWN [2] -> BAKERSFIELD [1]
+
+---------------------------------------
+---------------------------------------
+ From City:      [13]PARKER (PD), population 2190, elevation 1829
+ To City:        [2]BOSSTOWN (BO), population 790, elevation 10
+
+ The shortest distance from PARKER to BOSSTOWN is 22
+ through the route: PARKER [13] -> BOSSTOWN [2]
+
+---------------------------------------
+---------------------------------------
+ From City:      [13]PARKER (PD), population 2190, elevation 1829
+ To City:        [3]BREA (BR), population 529000, elevation 1242
+
+ The shortest distance from PARKER to BREA is 105
+ through the route: PARKER [13] -> GRPVE [8] -> ISABELLA [10] -> BREA [3]
+
+---------------------------------------
+---------------------------------------
+ From City:      [13]PARKER (PD), population 2190, elevation 1829
+ To City:        [4]CHINO (CH), population 52200, elevation 1381
+
+ The shortest distance from PARKER to CHINO is 127
+ through the route: PARKER [13] -> BOSSTOWN [2] -> BAKERSFIELD [1] -> VICTORVILLE [18] -> CHINO [4]
+
+---------------------------------------
+---------------------------------------
+ From City:      [13]PARKER (PD), population 2190, elevation 1829
+ To City:        [5]EDWIN (ED), population 12, elevation 8719
+
+ The shortest distance from PARKER to EDWIN is 134
+ through the route: PARKER [13] -> BOSSTOWN [2] -> TORRANCE [17] -> GARDENA [7] -> EDWIN [5]
+
+---------------------------------------
+---------------------------------------
+ From City:      [13]PARKER (PD), population 2190, elevation 1829
+ To City:        [6]IRWIN (FI), population 4120, elevation 932
+
+ The shortest distance from PARKER to IRWIN is 133
+ through the route: PARKER [13] -> GRPVE [8] -> IRWIN [6]
+
+---------------------------------------
+---------------------------------------
+ From City:      [13]PARKER (PD), population 2190, elevation 1829
+ To City:        [7]GARDENA (GD), population 653210, elevation 674
+
+ The shortest distance from PARKER to GARDENA is 129
+ through the route: PARKER [13] -> BOSSTOWN [2] -> TORRANCE [17] -> GARDENA [7]
+
+---------------------------------------
+---------------------------------------
+ From City:      [13]PARKER (PD), population 2190, elevation 1829
+ To City:        [8]GRPVE (GG), population 913330, elevation 952
+
+ The shortest distance from PARKER to GRPVE is 13
+ through the route: PARKER [13] -> GRPVE [8]
+
+---------------------------------------
+---------------------------------------
+ From City:      [13]PARKER (PD), population 2190, elevation 1829
+ To City:        [9]KERNVILLE (KV), population 6530, elevation 3925
+
+ The shortest distance from PARKER to KERNVILLE is 133
+ through the route: PARKER [13] -> BOSSTOWN [2] -> TORRANCE [17] -> KERNVILLE [9]
+
+---------------------------------------
+---------------------------------------
+ From City:      [13]PARKER (PD), population 2190, elevation 1829
+ To City:        [10]ISABELLA (LI), population 981, elevation 2194
+
+ The shortest distance from PARKER to ISABELLA is 15
+ through the route: PARKER [13] -> GRPVE [8] -> ISABELLA [10]
+
+---------------------------------------
+---------------------------------------
+ From City:      [13]PARKER (PD), population 2190, elevation 1829
+ To City:        [11]VINING (LV), population 8390, elevation 5983
+
+ The shortest distance from PARKER to VINING is 68
+ through the route: PARKER [13] -> BOSSTOWN [2] -> BAKERSFIELD [1] -> VINING [11]
+
+---------------------------------------
+---------------------------------------
+ From City:      [13]PARKER (PD), population 2190, elevation 1829
+ To City:        [12]MOUNTAIN (MP), population 76, elevation 7190
+
+ The shortest distance from PARKER to MOUNTAIN is 214
+ through the route: PARKER [13] -> GRPVE [8] -> IRWIN [6] -> MOUNTAIN [12]
+
+---------------------------------------
+---------------------------------------
+ From City:      [13]PARKER (PD), population 2190, elevation 1829
+ To City:        [13]PARKER (PD), population 2190, elevation 1829
+
+ The shortest distance from PARKER to PARKER is 0
+ through the route: PARKER [13]
+
+---------------------------------------
+---------------------------------------
+ From City:      [13]PARKER (PD), population 2190, elevation 1829
+ To City:        [14]POMONA (PM), population 698300, elevation 298
+
+ The shortest distance from PARKER to POMONA is 133
+ through the route: PARKER [13] -> BOSSTOWN [2] -> TORRANCE [17] -> POMONA [14]
+
+---------------------------------------
+---------------------------------------
+ From City:      [13]PARKER (PD), population 2190, elevation 1829
+ To City:        [15]RIVERA (PR), population 189820, elevation 1190
+
+ The shortest distance from PARKER to RIVERA is 139
+ through the route: PARKER [13] -> BOSSTOWN [2] -> BAKERSFIELD [1] -> VICTORVILLE [18] -> CHINO [4] -> RIVERA [15]
+
+---------------------------------------
+---------------------------------------
+ From City:      [13]PARKER (PD), population 2190, elevation 1829
+ To City:        [16]BERNADINO (SB), population 1293200, elevation 1033
+
+ The shortest distance from PARKER to BERNADINO is 104
+ through the route: PARKER [13] -> BOSSTOWN [2] -> BAKERSFIELD [1] -> BERNADINO [16]
+
+---------------------------------------
+---------------------------------------
+ From City:      [13]PARKER (PD), population 2190, elevation 1829
+ To City:        [17]TORRANCE (TR), population 169400, elevation 829
+
+ The shortest distance from PARKER to TORRANCE is 100
+ through the route: PARKER [13] -> BOSSTOWN [2] -> TORRANCE [17]
+
+---------------------------------------
+---------------------------------------
+ From City:      [13]PARKER (PD), population 2190, elevation 1829
+ To City:        [18]VICTORVILLE (VV), population 57460, elevation 2190
+
+ The shortest distance from PARKER to VICTORVILLE is 53
+ through the route: PARKER [13] -> BOSSTOWN [2] -> BAKERSFIELD [1] -> VICTORVILLE [18]
+
+---------------------------------------
+---------------------------------------
+ From City:      [13]PARKER (PD), population 2190, elevation 1829
+ To City:        [19]WRIGHTWOOD (WW), population 9234, elevation 7910
+
+ The shortest distance from PARKER to WRIGHTWOOD is 24
+ through the route: PARKER [13] -> GRPVE [8] -> WRIGHTWOOD [19]
+
+---------------------------------------
+---------------------------------------
+
+---------------------------------------
+ From City:      [14]POMONA (PM), population 698300, elevation 298
+ To City:        [0]ANAHEIM (AN), population 1273000, elevation 310
+
+ The shortest distance from POMONA to ANAHEIM is 84
+ through the route: POMONA [14] -> EDWIN [5] -> ANAHEIM [0]
+
+---------------------------------------
+---------------------------------------
+ From City:      [14]POMONA (PM), population 698300, elevation 298
+ To City:        [1]BAKERSFIELD (BK), population 31100, elevation 390
+
+ The shortest distance from POMONA to BAKERSFIELD is 309
+ through the route: POMONA [14] -> EDWIN [5] -> ANAHEIM [0] -> VICTORVILLE [18] -> CHINO [4] -> GRPVE [8] -> ISABELLA [10] -> BAKERSFIELD [1]
+
+---------------------------------------
+---------------------------------------
+ From City:      [14]POMONA (PM), population 698300, elevation 298
+ To City:        [2]BOSSTOWN (BO), population 790, elevation 10
+
+ The shortest distance from POMONA to BOSSTOWN is 364
+ through the route: POMONA [14] -> EDWIN [5] -> GARDENA [7] -> BOSSTOWN [2]
+
+---------------------------------------
+---------------------------------------
+ From City:      [14]POMONA (PM), population 698300, elevation 298
+ To City:        [3]BREA (BR), population 529000, elevation 1242
+
+ The shortest distance from POMONA to BREA is 296
+ through the route: POMONA [14] -> EDWIN [5] -> ANAHEIM [0] -> BREA [3]
+
+---------------------------------------
+---------------------------------------
+ From City:      [14]POMONA (PM), population 698300, elevation 298
+ To City:        [4]CHINO (CH), population 52200, elevation 1381
+
+ The shortest distance from POMONA to CHINO is 194
+ through the route: POMONA [14] -> EDWIN [5] -> ANAHEIM [0] -> VICTORVILLE [18] -> CHINO [4]
+
+---------------------------------------
+---------------------------------------
+ From City:      [14]POMONA (PM), population 698300, elevation 298
+ To City:        [5]EDWIN (ED), population 12, elevation 8719
+
+ The shortest distance from POMONA to EDWIN is 22
+ through the route: POMONA [14] -> EDWIN [5]
+
+---------------------------------------
+---------------------------------------
+ From City:      [14]POMONA (PM), population 698300, elevation 298
+ To City:        [6]IRWIN (FI), population 4120, elevation 932
+
+ The shortest distance from POMONA to IRWIN is 346
+ through the route: POMONA [14] -> EDWIN [5] -> ANAHEIM [0] -> VICTORVILLE [18] -> CHINO [4] -> GRPVE [8] -> IRWIN [6]
+
+---------------------------------------
+---------------------------------------
+ From City:      [14]POMONA (PM), population 698300, elevation 298
+ To City:        [7]GARDENA (GD), population 653210, elevation 674
+
+ The shortest distance from POMONA to GARDENA is 154
+ through the route: POMONA [14] -> EDWIN [5] -> GARDENA [7]
+
+---------------------------------------
+---------------------------------------
+ From City:      [14]POMONA (PM), population 698300, elevation 298
+ To City:        [8]GRPVE (GG), population 913330, elevation 952
+
+ The shortest distance from POMONA to GRPVE is 226
+ through the route: POMONA [14] -> EDWIN [5] -> ANAHEIM [0] -> VICTORVILLE [18] -> CHINO [4] -> GRPVE [8]
+
+---------------------------------------
+---------------------------------------
+ From City:      [14]POMONA (PM), population 698300, elevation 298
+ To City:        [9]KERNVILLE (KV), population 6530, elevation 3925
+
+ The shortest distance from POMONA to KERNVILLE is 231
+ through the route: POMONA [14] -> EDWIN [5] -> ANAHEIM [0] -> VICTORVILLE [18] -> KERNVILLE [9]
+
+---------------------------------------
+---------------------------------------
+ From City:      [14]POMONA (PM), population 698300, elevation 298
+ To City:        [10]ISABELLA (LI), population 981, elevation 2194
+
+ The shortest distance from POMONA to ISABELLA is 228
+ through the route: POMONA [14] -> EDWIN [5] -> ANAHEIM [0] -> VICTORVILLE [18] -> CHINO [4] -> GRPVE [8] -> ISABELLA [10]
+
+---------------------------------------
+---------------------------------------
+ From City:      [14]POMONA (PM), population 698300, elevation 298
+ To City:        [11]VINING (LV), population 8390, elevation 5983
+
+ The shortest distance from POMONA to VINING is 338
+ through the route: POMONA [14] -> EDWIN [5] -> ANAHEIM [0] -> BREA [3] -> VINING [11]
+
+---------------------------------------
+---------------------------------------
+ From City:      [14]POMONA (PM), population 698300, elevation 298
+ To City:        [12]MOUNTAIN (MP), population 76, elevation 7190
+
+ The shortest distance from POMONA to MOUNTAIN is 427
+ through the route: POMONA [14] -> EDWIN [5] -> ANAHEIM [0] -> VICTORVILLE [18] -> CHINO [4] -> GRPVE [8] -> IRWIN [6] -> MOUNTAIN [12]
+
+---------------------------------------
+---------------------------------------
+ From City:      [14]POMONA (PM), population 698300, elevation 298
+ To City:        [13]PARKER (PD), population 2190, elevation 1829
+
+ The shortest distance from POMONA to PARKER is 357
+ through the route: POMONA [14] -> EDWIN [5] -> ANAHEIM [0] -> VICTORVILLE [18] -> CHINO [4] -> GRPVE [8] -> IRWIN [6] -> PARKER [13]
+
+---------------------------------------
+---------------------------------------
+ From City:      [14]POMONA (PM), population 698300, elevation 298
+ To City:        [14]POMONA (PM), population 698300, elevation 298
+
+ The shortest distance from POMONA to POMONA is 0
+ through the route: POMONA [14]
+
+---------------------------------------
+---------------------------------------
+ From City:      [14]POMONA (PM), population 698300, elevation 298
+ To City:        [15]RIVERA (PR), population 189820, elevation 1190
+
+ The shortest distance from POMONA to RIVERA is 228
+ through the route: POMONA [14] -> EDWIN [5] -> GARDENA [7] -> RIVERA [15]
+
+---------------------------------------
+---------------------------------------
+ From City:      [14]POMONA (PM), population 698300, elevation 298
+ To City:        [16]BERNADINO (SB), population 1293200, elevation 1033
+
+ The shortest distance from POMONA to BERNADINO is 374
+ through the route: POMONA [14] -> EDWIN [5] -> ANAHEIM [0] -> VICTORVILLE [18] -> CHINO [4] -> GRPVE [8] -> ISABELLA [10] -> BAKERSFIELD [1] -> BERNADINO [16]
+
+---------------------------------------
+---------------------------------------
+ From City:      [14]POMONA (PM), population 698300, elevation 298
+ To City:        [17]TORRANCE (TR), population 169400, elevation 829
+
+ The shortest distance from POMONA to TORRANCE is 326
+ through the route: POMONA [14] -> EDWIN [5] -> GARDENA [7] -> RIVERA [15] -> TORRANCE [17]
+
+---------------------------------------
+---------------------------------------
+ From City:      [14]POMONA (PM), population 698300, elevation 298
+ To City:        [18]VICTORVILLE (VV), population 57460, elevation 2190
+
+ The shortest distance from POMONA to VICTORVILLE is 120
+ through the route: POMONA [14] -> EDWIN [5] -> ANAHEIM [0] -> VICTORVILLE [18]
+
+---------------------------------------
+---------------------------------------
+ From City:      [14]POMONA (PM), population 698300, elevation 298
+ To City:        [19]WRIGHTWOOD (WW), population 9234, elevation 7910
+
+ The shortest distance from POMONA to WRIGHTWOOD is 237
+ through the route: POMONA [14] -> EDWIN [5] -> ANAHEIM [0] -> VICTORVILLE [18] -> CHINO [4] -> GRPVE [8] -> WRIGHTWOOD [19]
+
+---------------------------------------
+---------------------------------------
+
+---------------------------------------
+ From City:      [15]RIVERA (PR), population 189820, elevation 1190
+ To City:        [0]ANAHEIM (AN), population 1273000, elevation 310
+
+ The shortest distance from RIVERA to ANAHEIM is 194
+ through the route: RIVERA [15] -> TORRANCE [17] -> GARDENA [7] -> EDWIN [5] -> ANAHEIM [0]
+
+---------------------------------------
+---------------------------------------
+ From City:      [15]RIVERA (PR), population 189820, elevation 1190
+ To City:        [1]BAKERSFIELD (BK), population 31100, elevation 390
+
+ The shortest distance from RIVERA to BAKERSFIELD is 154
+ through the route: RIVERA [15] -> ISABELLA [10] -> BAKERSFIELD [1]
+
+---------------------------------------
+---------------------------------------
+ From City:      [15]RIVERA (PR), population 189820, elevation 1190
+ To City:        [2]BOSSTOWN (BO), population 790, elevation 10
+
+ The shortest distance from RIVERA to BOSSTOWN is 194
+ through the route: RIVERA [15] -> ISABELLA [10] -> BAKERSFIELD [1] -> VINING [11] -> BOSSTOWN [2]
+
+---------------------------------------
+---------------------------------------
+ From City:      [15]RIVERA (PR), population 189820, elevation 1190
+ To City:        [3]BREA (BR), population 529000, elevation 1242
+
+ The shortest distance from RIVERA to BREA is 163
+ through the route: RIVERA [15] -> ISABELLA [10] -> BREA [3]
+
+---------------------------------------
+---------------------------------------
+ From City:      [15]RIVERA (PR), population 189820, elevation 1190
+ To City:        [4]CHINO (CH), population 52200, elevation 1381
+
+ The shortest distance from RIVERA to CHINO is 192
+ through the route: RIVERA [15] -> ISABELLA [10] -> BREA [3] -> CHINO [4]
+
+---------------------------------------
+---------------------------------------
+ From City:      [15]RIVERA (PR), population 189820, elevation 1190
+ To City:        [5]EDWIN (ED), population 12, elevation 8719
+
+ The shortest distance from RIVERA to EDWIN is 132
+ through the route: RIVERA [15] -> TORRANCE [17] -> GARDENA [7] -> EDWIN [5]
+
+---------------------------------------
+---------------------------------------
+ From City:      [15]RIVERA (PR), population 189820, elevation 1190
+ To City:        [6]IRWIN (FI), population 4120, elevation 932
+
+ The shortest distance from RIVERA to IRWIN is 305
+ through the route: RIVERA [15] -> ISABELLA [10] -> BAKERSFIELD [1] -> VINING [11] -> IRWIN [6]
+
+---------------------------------------
+---------------------------------------
+ From City:      [15]RIVERA (PR), population 189820, elevation 1190
+ To City:        [7]GARDENA (GD), population 653210, elevation 674
+
+ The shortest distance from RIVERA to GARDENA is 127
+ through the route: RIVERA [15] -> TORRANCE [17] -> GARDENA [7]
+
+---------------------------------------
+---------------------------------------
+ From City:      [15]RIVERA (PR), population 189820, elevation 1190
+ To City:        [8]GRPVE (GG), population 913330, elevation 952
+
+ The shortest distance from RIVERA to GRPVE is 205
+ through the route: RIVERA [15] -> ISABELLA [10] -> BAKERSFIELD [1] -> VINING [11] -> BOSSTOWN [2] -> GRPVE [8]
+
+---------------------------------------
+---------------------------------------
+ From City:      [15]RIVERA (PR), population 189820, elevation 1190
+ To City:        [9]KERNVILLE (KV), population 6530, elevation 3925
+
+ The shortest distance from RIVERA to KERNVILLE is 131
+ through the route: RIVERA [15] -> TORRANCE [17] -> KERNVILLE [9]
+
+---------------------------------------
+---------------------------------------
+ From City:      [15]RIVERA (PR), population 189820, elevation 1190
+ To City:        [10]ISABELLA (LI), population 981, elevation 2194
+
+ The shortest distance from RIVERA to ISABELLA is 73
+ through the route: RIVERA [15] -> ISABELLA [10]
+
+---------------------------------------
+---------------------------------------
+ From City:      [15]RIVERA (PR), population 189820, elevation 1190
+ To City:        [11]VINING (LV), population 8390, elevation 5983
+
+ The shortest distance from RIVERA to VINING is 183
+ through the route: RIVERA [15] -> ISABELLA [10] -> BAKERSFIELD [1] -> VINING [11]
+
+---------------------------------------
+---------------------------------------
+ From City:      [15]RIVERA (PR), population 189820, elevation 1190
+ To City:        [12]MOUNTAIN (MP), population 76, elevation 7190
+
+ The shortest distance from RIVERA to MOUNTAIN is 386
+ through the route: RIVERA [15] -> ISABELLA [10] -> BAKERSFIELD [1] -> VINING [11] -> IRWIN [6] -> MOUNTAIN [12]
+
+---------------------------------------
+---------------------------------------
+ From City:      [15]RIVERA (PR), population 189820, elevation 1190
+ To City:        [13]PARKER (PD), population 2190, elevation 1829
+
+ The shortest distance from RIVERA to PARKER is 316
+ through the route: RIVERA [15] -> ISABELLA [10] -> BAKERSFIELD [1] -> VINING [11] -> IRWIN [6] -> PARKER [13]
+
+---------------------------------------
+---------------------------------------
+ From City:      [15]RIVERA (PR), population 189820, elevation 1190
+ To City:        [14]POMONA (PM), population 698300, elevation 298
+
+ The shortest distance from RIVERA to POMONA is 131
+ through the route: RIVERA [15] -> TORRANCE [17] -> POMONA [14]
+
+---------------------------------------
+---------------------------------------
+ From City:      [15]RIVERA (PR), population 189820, elevation 1190
+ To City:        [15]RIVERA (PR), population 189820, elevation 1190
+
+ The shortest distance from RIVERA to RIVERA is 0
+ through the route: RIVERA [15]
+
+---------------------------------------
+---------------------------------------
+ From City:      [15]RIVERA (PR), population 189820, elevation 1190
+ To City:        [16]BERNADINO (SB), population 1293200, elevation 1033
+
+ The shortest distance from RIVERA to BERNADINO is 219
+ through the route: RIVERA [15] -> ISABELLA [10] -> BAKERSFIELD [1] -> BERNADINO [16]
+
+---------------------------------------
+---------------------------------------
+ From City:      [15]RIVERA (PR), population 189820, elevation 1190
+ To City:        [17]TORRANCE (TR), population 169400, elevation 829
+
+ The shortest distance from RIVERA to TORRANCE is 98
+ through the route: RIVERA [15] -> TORRANCE [17]
+
+---------------------------------------
+---------------------------------------
+ From City:      [15]RIVERA (PR), population 189820, elevation 1190
+ To City:        [18]VICTORVILLE (VV), population 57460, elevation 2190
+
+ The shortest distance from RIVERA to VICTORVILLE is 168
+ through the route: RIVERA [15] -> ISABELLA [10] -> BAKERSFIELD [1] -> VICTORVILLE [18]
+
+---------------------------------------
+---------------------------------------
+ From City:      [15]RIVERA (PR), population 189820, elevation 1190
+ To City:        [19]WRIGHTWOOD (WW), population 9234, elevation 7910
+
+ The shortest distance from RIVERA to WRIGHTWOOD is 219
+ through the route: RIVERA [15] -> TORRANCE [17] -> WRIGHTWOOD [19]
+
+---------------------------------------
+---------------------------------------
+
+---------------------------------------
+ From City:      [16]BERNADINO (SB), population 1293200, elevation 1033
+ To City:        [0]ANAHEIM (AN), population 1273000, elevation 310
+
+ The shortest distance from BERNADINO to ANAHEIM is 77
+ through the route: BERNADINO [16] -> ANAHEIM [0]
+
+---------------------------------------
+---------------------------------------
+ From City:      [16]BERNADINO (SB), population 1293200, elevation 1033
+ To City:        [1]BAKERSFIELD (BK), population 31100, elevation 390
+
+ The shortest distance from BERNADINO to BAKERSFIELD is 102
+ through the route: BERNADINO [16] -> ISABELLA [10] -> BAKERSFIELD [1]
+
+---------------------------------------
+---------------------------------------
+ From City:      [16]BERNADINO (SB), population 1293200, elevation 1033
+ To City:        [2]BOSSTOWN (BO), population 790, elevation 10
+
+ The shortest distance from BERNADINO to BOSSTOWN is 104
+ through the route: BERNADINO [16] -> VINING [11] -> BOSSTOWN [2]
+
+---------------------------------------
+---------------------------------------
+ From City:      [16]BERNADINO (SB), population 1293200, elevation 1033
+ To City:        [3]BREA (BR), population 529000, elevation 1242
+
+ The shortest distance from BERNADINO to BREA is 111
+ through the route: BERNADINO [16] -> ISABELLA [10] -> BREA [3]
+
+---------------------------------------
+---------------------------------------
+ From City:      [16]BERNADINO (SB), population 1293200, elevation 1033
+ To City:        [4]CHINO (CH), population 52200, elevation 1381
+
+ The shortest distance from BERNADINO to CHINO is 140
+ through the route: BERNADINO [16] -> ISABELLA [10] -> BREA [3] -> CHINO [4]
+
+---------------------------------------
+---------------------------------------
+ From City:      [16]BERNADINO (SB), population 1293200, elevation 1033
+ To City:        [5]EDWIN (ED), population 12, elevation 8719
+
+ The shortest distance from BERNADINO to EDWIN is 237
+ through the route: BERNADINO [16] -> VINING [11] -> BOSSTOWN [2] -> TORRANCE [17] -> POMONA [14] -> EDWIN [5]
+
+---------------------------------------
+---------------------------------------
+ From City:      [16]BERNADINO (SB), population 1293200, elevation 1033
+ To City:        [6]IRWIN (FI), population 4120, elevation 932
+
+ The shortest distance from BERNADINO to IRWIN is 215
+ through the route: BERNADINO [16] -> VINING [11] -> IRWIN [6]
+
+---------------------------------------
+---------------------------------------
+ From City:      [16]BERNADINO (SB), population 1293200, elevation 1033
+ To City:        [7]GARDENA (GD), population 653210, elevation 674
+
+ The shortest distance from BERNADINO to GARDENA is 211
+ through the route: BERNADINO [16] -> VINING [11] -> BOSSTOWN [2] -> TORRANCE [17] -> GARDENA [7]
+
+---------------------------------------
+---------------------------------------
+ From City:      [16]BERNADINO (SB), population 1293200, elevation 1033
+ To City:        [8]GRPVE (GG), population 913330, elevation 952
+
+ The shortest distance from BERNADINO to GRPVE is 115
+ through the route: BERNADINO [16] -> VINING [11] -> BOSSTOWN [2] -> GRPVE [8]
+
+---------------------------------------
+---------------------------------------
+ From City:      [16]BERNADINO (SB), population 1293200, elevation 1033
+ To City:        [9]KERNVILLE (KV), population 6530, elevation 3925
+
+ The shortest distance from BERNADINO to KERNVILLE is 215
+ through the route: BERNADINO [16] -> VINING [11] -> BOSSTOWN [2] -> TORRANCE [17] -> KERNVILLE [9]
+
+---------------------------------------
+---------------------------------------
+ From City:      [16]BERNADINO (SB), population 1293200, elevation 1033
+ To City:        [10]ISABELLA (LI), population 981, elevation 2194
+
+ The shortest distance from BERNADINO to ISABELLA is 21
+ through the route: BERNADINO [16] -> ISABELLA [10]
+
+---------------------------------------
+---------------------------------------
+ From City:      [16]BERNADINO (SB), population 1293200, elevation 1033
+ To City:        [11]VINING (LV), population 8390, elevation 5983
+
+ The shortest distance from BERNADINO to VINING is 93
+ through the route: BERNADINO [16] -> VINING [11]
+
+---------------------------------------
+---------------------------------------
+ From City:      [16]BERNADINO (SB), population 1293200, elevation 1033
+ To City:        [12]MOUNTAIN (MP), population 76, elevation 7190
+
+ The shortest distance from BERNADINO to MOUNTAIN is 296
+ through the route: BERNADINO [16] -> VINING [11] -> IRWIN [6] -> MOUNTAIN [12]
+
+---------------------------------------
+---------------------------------------
+ From City:      [16]BERNADINO (SB), population 1293200, elevation 1033
+ To City:        [13]PARKER (PD), population 2190, elevation 1829
+
+ The shortest distance from BERNADINO to PARKER is 226
+ through the route: BERNADINO [16] -> VINING [11] -> IRWIN [6] -> PARKER [13]
+
+---------------------------------------
+---------------------------------------
+ From City:      [16]BERNADINO (SB), population 1293200, elevation 1033
+ To City:        [14]POMONA (PM), population 698300, elevation 298
+
+ The shortest distance from BERNADINO to POMONA is 215
+ through the route: BERNADINO [16] -> VINING [11] -> BOSSTOWN [2] -> TORRANCE [17] -> POMONA [14]
+
+---------------------------------------
+---------------------------------------
+ From City:      [16]BERNADINO (SB), population 1293200, elevation 1033
+ To City:        [15]RIVERA (PR), population 189820, elevation 1190
+
+ The shortest distance from BERNADINO to RIVERA is 152
+ through the route: BERNADINO [16] -> ISABELLA [10] -> BREA [3] -> CHINO [4] -> RIVERA [15]
+
+---------------------------------------
+---------------------------------------
+ From City:      [16]BERNADINO (SB), population 1293200, elevation 1033
+ To City:        [16]BERNADINO (SB), population 1293200, elevation 1033
+
+ The shortest distance from BERNADINO to BERNADINO is 0
+ through the route: BERNADINO [16]
+
+---------------------------------------
+---------------------------------------
+ From City:      [16]BERNADINO (SB), population 1293200, elevation 1033
+ To City:        [17]TORRANCE (TR), population 169400, elevation 829
+
+ The shortest distance from BERNADINO to TORRANCE is 182
+ through the route: BERNADINO [16] -> VINING [11] -> BOSSTOWN [2] -> TORRANCE [17]
+
+---------------------------------------
+---------------------------------------
+ From City:      [16]BERNADINO (SB), population 1293200, elevation 1033
+ To City:        [18]VICTORVILLE (VV), population 57460, elevation 2190
+
+ The shortest distance from BERNADINO to VICTORVILLE is 113
+ through the route: BERNADINO [16] -> ANAHEIM [0] -> VICTORVILLE [18]
+
+---------------------------------------
+---------------------------------------
+ From City:      [16]BERNADINO (SB), population 1293200, elevation 1033
+ To City:        [19]WRIGHTWOOD (WW), population 9234, elevation 7910
+
+ The shortest distance from BERNADINO to WRIGHTWOOD is 190
+ through the route: BERNADINO [16] -> WRIGHTWOOD [19]
+
+---------------------------------------
+---------------------------------------
+
+---------------------------------------
+ From City:      [17]TORRANCE (TR), population 169400, elevation 829
+ To City:        [0]ANAHEIM (AN), population 1273000, elevation 310
+
+ The shortest distance from TORRANCE to ANAHEIM is 96
+ through the route: TORRANCE [17] -> GARDENA [7] -> EDWIN [5] -> ANAHEIM [0]
+
+---------------------------------------
+---------------------------------------
+ From City:      [17]TORRANCE (TR), population 169400, elevation 829
+ To City:        [1]BAKERSFIELD (BK), population 31100, elevation 390
+
+ The shortest distance from TORRANCE to BAKERSFIELD is 182
+ through the route: TORRANCE [17] -> KERNVILLE [9] -> VINING [11] -> BOSSTOWN [2] -> BAKERSFIELD [1]
+
+---------------------------------------
+---------------------------------------
+ From City:      [17]TORRANCE (TR), population 169400, elevation 829
+ To City:        [2]BOSSTOWN (BO), population 790, elevation 10
+
+ The shortest distance from TORRANCE to BOSSTOWN is 165
+ through the route: TORRANCE [17] -> KERNVILLE [9] -> VINING [11] -> BOSSTOWN [2]
+
+---------------------------------------
+---------------------------------------
+ From City:      [17]TORRANCE (TR), population 169400, elevation 829
+ To City:        [3]BREA (BR), population 529000, elevation 1242
+
+ The shortest distance from TORRANCE to BREA is 268
+ through the route: TORRANCE [17] -> KERNVILLE [9] -> VINING [11] -> BOSSTOWN [2] -> GRPVE [8] -> ISABELLA [10] -> BREA [3]
+
+---------------------------------------
+---------------------------------------
+ From City:      [17]TORRANCE (TR), population 169400, elevation 829
+ To City:        [4]CHINO (CH), population 52200, elevation 1381
+
+ The shortest distance from TORRANCE to CHINO is 245
+ through the route: TORRANCE [17] -> GARDENA [7] -> EDWIN [5] -> CHINO [4]
+
+---------------------------------------
+---------------------------------------
+ From City:      [17]TORRANCE (TR), population 169400, elevation 829
+ To City:        [5]EDWIN (ED), population 12, elevation 8719
+
+ The shortest distance from TORRANCE to EDWIN is 34
+ through the route: TORRANCE [17] -> GARDENA [7] -> EDWIN [5]
+
+---------------------------------------
+---------------------------------------
+ From City:      [17]TORRANCE (TR), population 169400, elevation 829
+ To City:        [6]IRWIN (FI), population 4120, elevation 932
+
+ The shortest distance from TORRANCE to IRWIN is 276
+ through the route: TORRANCE [17] -> KERNVILLE [9] -> VINING [11] -> IRWIN [6]
+
+---------------------------------------
+---------------------------------------
+ From City:      [17]TORRANCE (TR), population 169400, elevation 829
+ To City:        [7]GARDENA (GD), population 653210, elevation 674
+
+ The shortest distance from TORRANCE to GARDENA is 29
+ through the route: TORRANCE [17] -> GARDENA [7]
+
+---------------------------------------
+---------------------------------------
+ From City:      [17]TORRANCE (TR), population 169400, elevation 829
+ To City:        [8]GRPVE (GG), population 913330, elevation 952
+
+ The shortest distance from TORRANCE to GRPVE is 176
+ through the route: TORRANCE [17] -> KERNVILLE [9] -> VINING [11] -> BOSSTOWN [2] -> GRPVE [8]
+
+---------------------------------------
+---------------------------------------
+ From City:      [17]TORRANCE (TR), population 169400, elevation 829
+ To City:        [9]KERNVILLE (KV), population 6530, elevation 3925
+
+ The shortest distance from TORRANCE to KERNVILLE is 33
+ through the route: TORRANCE [17] -> KERNVILLE [9]
+
+---------------------------------------
+---------------------------------------
+ From City:      [17]TORRANCE (TR), population 169400, elevation 829
+ To City:        [10]ISABELLA (LI), population 981, elevation 2194
+
+ The shortest distance from TORRANCE to ISABELLA is 178
+ through the route: TORRANCE [17] -> KERNVILLE [9] -> VINING [11] -> BOSSTOWN [2] -> GRPVE [8] -> ISABELLA [10]
+
+---------------------------------------
+---------------------------------------
+ From City:      [17]TORRANCE (TR), population 169400, elevation 829
+ To City:        [11]VINING (LV), population 8390, elevation 5983
+
+ The shortest distance from TORRANCE to VINING is 154
+ through the route: TORRANCE [17] -> KERNVILLE [9] -> VINING [11]
+
+---------------------------------------
+---------------------------------------
+ From City:      [17]TORRANCE (TR), population 169400, elevation 829
+ To City:        [12]MOUNTAIN (MP), population 76, elevation 7190
+
+ The shortest distance from TORRANCE to MOUNTAIN is 357
+ through the route: TORRANCE [17] -> KERNVILLE [9] -> VINING [11] -> IRWIN [6] -> MOUNTAIN [12]
+
+---------------------------------------
+---------------------------------------
+ From City:      [17]TORRANCE (TR), population 169400, elevation 829
+ To City:        [13]PARKER (PD), population 2190, elevation 1829
+
+ The shortest distance from TORRANCE to PARKER is 287
+ through the route: TORRANCE [17] -> KERNVILLE [9] -> VINING [11] -> BOSSTOWN [2] -> PARKER [13]
+
+---------------------------------------
+---------------------------------------
+ From City:      [17]TORRANCE (TR), population 169400, elevation 829
+ To City:        [14]POMONA (PM), population 698300, elevation 298
+
+ The shortest distance from TORRANCE to POMONA is 33
+ through the route: TORRANCE [17] -> POMONA [14]
+
+---------------------------------------
+---------------------------------------
+ From City:      [17]TORRANCE (TR), population 169400, elevation 829
+ To City:        [15]RIVERA (PR), population 189820, elevation 1190
+
+ The shortest distance from TORRANCE to RIVERA is 103
+ through the route: TORRANCE [17] -> GARDENA [7] -> RIVERA [15]
+
+---------------------------------------
+---------------------------------------
+ From City:      [17]TORRANCE (TR), population 169400, elevation 829
+ To City:        [16]BERNADINO (SB), population 1293200, elevation 1033
+
+ The shortest distance from TORRANCE to BERNADINO is 247
+ through the route: TORRANCE [17] -> KERNVILLE [9] -> VINING [11] -> BOSSTOWN [2] -> BAKERSFIELD [1] -> BERNADINO [16]
+
+---------------------------------------
+---------------------------------------
+ From City:      [17]TORRANCE (TR), population 169400, elevation 829
+ To City:        [17]TORRANCE (TR), population 169400, elevation 829
+
+ The shortest distance from TORRANCE to TORRANCE is 0
+ through the route: TORRANCE [17]
+
+---------------------------------------
+---------------------------------------
+ From City:      [17]TORRANCE (TR), population 169400, elevation 829
+ To City:        [18]VICTORVILLE (VV), population 57460, elevation 2190
+
+ The shortest distance from TORRANCE to VICTORVILLE is 132
+ through the route: TORRANCE [17] -> GARDENA [7] -> EDWIN [5] -> ANAHEIM [0] -> VICTORVILLE [18]
+
+---------------------------------------
+---------------------------------------
+ From City:      [17]TORRANCE (TR), population 169400, elevation 829
+ To City:        [19]WRIGHTWOOD (WW), population 9234, elevation 7910
+
+ The shortest distance from TORRANCE to WRIGHTWOOD is 121
+ through the route: TORRANCE [17] -> WRIGHTWOOD [19]
+
+---------------------------------------
+---------------------------------------
+
+---------------------------------------
+ From City:      [18]VICTORVILLE (VV), population 57460, elevation 2190
+ To City:        [0]ANAHEIM (AN), population 1273000, elevation 310
+
+ The shortest distance from VICTORVILLE to ANAHEIM is 246
+ through the route: VICTORVILLE [18] -> CHINO [4] -> GRPVE [8] -> IRWIN [6] -> ANAHEIM [0]
+
+---------------------------------------
+---------------------------------------
+ From City:      [18]VICTORVILLE (VV), population 57460, elevation 2190
+ To City:        [1]BAKERSFIELD (BK), population 31100, elevation 390
+
+ The shortest distance from VICTORVILLE to BAKERSFIELD is 189
+ through the route: VICTORVILLE [18] -> CHINO [4] -> GRPVE [8] -> ISABELLA [10] -> BAKERSFIELD [1]
+
+---------------------------------------
+---------------------------------------
+ From City:      [18]VICTORVILLE (VV), population 57460, elevation 2190
+ To City:        [2]BOSSTOWN (BO), population 790, elevation 10
+
+ The shortest distance from VICTORVILLE to BOSSTOWN is 243
+ through the route: VICTORVILLE [18] -> KERNVILLE [9] -> VINING [11] -> BOSSTOWN [2]
+
+---------------------------------------
+---------------------------------------
+ From City:      [18]VICTORVILLE (VV), population 57460, elevation 2190
+ To City:        [3]BREA (BR), population 529000, elevation 1242
+
+ The shortest distance from VICTORVILLE to BREA is 196
+ through the route: VICTORVILLE [18] -> CHINO [4] -> BREA [3]
+
+---------------------------------------
+---------------------------------------
+ From City:      [18]VICTORVILLE (VV), population 57460, elevation 2190
+ To City:        [4]CHINO (CH), population 52200, elevation 1381
+
+ The shortest distance from VICTORVILLE to CHINO is 74
+ through the route: VICTORVILLE [18] -> CHINO [4]
+
+---------------------------------------
+---------------------------------------
+ From City:      [18]VICTORVILLE (VV), population 57460, elevation 2190
+ To City:        [5]EDWIN (ED), population 12, elevation 8719
+
+ The shortest distance from VICTORVILLE to EDWIN is 219
+ through the route: VICTORVILLE [18] -> EDWIN [5]
+
+---------------------------------------
+---------------------------------------
+ From City:      [18]VICTORVILLE (VV), population 57460, elevation 2190
+ To City:        [6]IRWIN (FI), population 4120, elevation 932
+
+ The shortest distance from VICTORVILLE to IRWIN is 226
+ through the route: VICTORVILLE [18] -> CHINO [4] -> GRPVE [8] -> IRWIN [6]
+
+---------------------------------------
+---------------------------------------
+ From City:      [18]VICTORVILLE (VV), population 57460, elevation 2190
+ To City:        [7]GARDENA (GD), population 653210, elevation 674
+
+ The shortest distance from VICTORVILLE to GARDENA is 213
+ through the route: VICTORVILLE [18] -> CHINO [4] -> RIVERA [15] -> TORRANCE [17] -> GARDENA [7]
+
+---------------------------------------
+---------------------------------------
+ From City:      [18]VICTORVILLE (VV), population 57460, elevation 2190
+ To City:        [8]GRPVE (GG), population 913330, elevation 952
+
+ The shortest distance from VICTORVILLE to GRPVE is 106
+ through the route: VICTORVILLE [18] -> CHINO [4] -> GRPVE [8]
+
+---------------------------------------
+---------------------------------------
+ From City:      [18]VICTORVILLE (VV), population 57460, elevation 2190
+ To City:        [9]KERNVILLE (KV), population 6530, elevation 3925
+
+ The shortest distance from VICTORVILLE to KERNVILLE is 111
+ through the route: VICTORVILLE [18] -> KERNVILLE [9]
+
+---------------------------------------
+---------------------------------------
+ From City:      [18]VICTORVILLE (VV), population 57460, elevation 2190
+ To City:        [10]ISABELLA (LI), population 981, elevation 2194
+
+ The shortest distance from VICTORVILLE to ISABELLA is 108
+ through the route: VICTORVILLE [18] -> CHINO [4] -> GRPVE [8] -> ISABELLA [10]
+
+---------------------------------------
+---------------------------------------
+ From City:      [18]VICTORVILLE (VV), population 57460, elevation 2190
+ To City:        [11]VINING (LV), population 8390, elevation 5983
+
+ The shortest distance from VICTORVILLE to VINING is 232
+ through the route: VICTORVILLE [18] -> KERNVILLE [9] -> VINING [11]
+
+---------------------------------------
+---------------------------------------
+ From City:      [18]VICTORVILLE (VV), population 57460, elevation 2190
+ To City:        [12]MOUNTAIN (MP), population 76, elevation 7190
+
+ The shortest distance from VICTORVILLE to MOUNTAIN is 307
+ through the route: VICTORVILLE [18] -> CHINO [4] -> GRPVE [8] -> IRWIN [6] -> MOUNTAIN [12]
+
+---------------------------------------
+---------------------------------------
+ From City:      [18]VICTORVILLE (VV), population 57460, elevation 2190
+ To City:        [13]PARKER (PD), population 2190, elevation 1829
+
+ The shortest distance from VICTORVILLE to PARKER is 237
+ through the route: VICTORVILLE [18] -> CHINO [4] -> GRPVE [8] -> IRWIN [6] -> PARKER [13]
+
+---------------------------------------
+---------------------------------------
+ From City:      [18]VICTORVILLE (VV), population 57460, elevation 2190
+ To City:        [14]POMONA (PM), population 698300, elevation 298
+
+ The shortest distance from VICTORVILLE to POMONA is 217
+ through the route: VICTORVILLE [18] -> CHINO [4] -> RIVERA [15] -> TORRANCE [17] -> POMONA [14]
+
+---------------------------------------
+---------------------------------------
+ From City:      [18]VICTORVILLE (VV), population 57460, elevation 2190
+ To City:        [15]RIVERA (PR), population 189820, elevation 1190
+
+ The shortest distance from VICTORVILLE to RIVERA is 86
+ through the route: VICTORVILLE [18] -> CHINO [4] -> RIVERA [15]
+
+---------------------------------------
+---------------------------------------
+ From City:      [18]VICTORVILLE (VV), population 57460, elevation 2190
+ To City:        [16]BERNADINO (SB), population 1293200, elevation 1033
+
+ The shortest distance from VICTORVILLE to BERNADINO is 333
+ through the route: VICTORVILLE [18] -> CHINO [4] -> GRPVE [8] -> IRWIN [6] -> MOUNTAIN [12] -> BERNADINO [16]
+
+---------------------------------------
+---------------------------------------
+ From City:      [18]VICTORVILLE (VV), population 57460, elevation 2190
+ To City:        [17]TORRANCE (TR), population 169400, elevation 829
+
+ The shortest distance from VICTORVILLE to TORRANCE is 184
+ through the route: VICTORVILLE [18] -> CHINO [4] -> RIVERA [15] -> TORRANCE [17]
+
+---------------------------------------
+---------------------------------------
+ From City:      [18]VICTORVILLE (VV), population 57460, elevation 2190
+ To City:        [18]VICTORVILLE (VV), population 57460, elevation 2190
+
+ The shortest distance from VICTORVILLE to VICTORVILLE is 0
+ through the route: VICTORVILLE [18]
+
+---------------------------------------
+---------------------------------------
+ From City:      [18]VICTORVILLE (VV), population 57460, elevation 2190
+ To City:        [19]WRIGHTWOOD (WW), population 9234, elevation 7910
+
+ The shortest distance from VICTORVILLE to WRIGHTWOOD is 117
+ through the route: VICTORVILLE [18] -> CHINO [4] -> GRPVE [8] -> WRIGHTWOOD [19]
+
+---------------------------------------
+---------------------------------------
+
+---------------------------------------
+
+No route from WRIGHTWOOD to ANAHEIM
+
+
+---------------------------------------
+---------------------------------------
+
+No route from WRIGHTWOOD to BAKERSFIELD
+
+
+---------------------------------------
+---------------------------------------
+
+No route from WRIGHTWOOD to BOSSTOWN
+
+
+---------------------------------------
+---------------------------------------
+
+No route from WRIGHTWOOD to BREA
+
+
+---------------------------------------
+---------------------------------------
+
+No route from WRIGHTWOOD to CHINO
+
+
+---------------------------------------
+---------------------------------------
+
+No route from WRIGHTWOOD to EDWIN
+
+
+---------------------------------------
+---------------------------------------
+
+No route from WRIGHTWOOD to IRWIN
+
+
+---------------------------------------
+---------------------------------------
+
+No route from WRIGHTWOOD to GARDENA
+
+
+---------------------------------------
+---------------------------------------
+
+No route from WRIGHTWOOD to GRPVE
+
+
+---------------------------------------
+---------------------------------------
+
+No route from WRIGHTWOOD to KERNVILLE
+
+
+---------------------------------------
+---------------------------------------
+
+No route from WRIGHTWOOD to ISABELLA
+
+
+---------------------------------------
+---------------------------------------
+
+No route from WRIGHTWOOD to VINING
+
+
+---------------------------------------
+---------------------------------------
+
+No route from WRIGHTWOOD to MOUNTAIN
+
+
+---------------------------------------
+---------------------------------------
+
+No route from WRIGHTWOOD to PARKER
+
+
+---------------------------------------
+---------------------------------------
+
+No route from WRIGHTWOOD to POMONA
+
+
+---------------------------------------
+---------------------------------------
+
+No route from WRIGHTWOOD to RIVERA
+
+
+---------------------------------------
+---------------------------------------
+
+No route from WRIGHTWOOD to BERNADINO
+
+
+---------------------------------------
+---------------------------------------
+
+No route from WRIGHTWOOD to TORRANCE
+
+
+---------------------------------------
+---------------------------------------
+
+No route from WRIGHTWOOD to VICTORVILLE
+
+
+---------------------------------------
+---------------------------------------
+ From City:      [19]WRIGHTWOOD (WW), population 9234, elevation 7910
+ To City:        [19]WRIGHTWOOD (WW), population 9234, elevation 7910
+
+ The shortest distance from WRIGHTWOOD to WRIGHTWOOD is 0
+ through the route: WRIGHTWOOD [19]
+
+---------------------------------------
+ Authors: Nathaniel VandenBerg
+          Caprice Jardin
+          Anna Jensen
+ Date: 12/07/2022
+ Course: CS311 (Data structures and Algorithms)
+ Description: Program to find the shortest route between cities
+----------------------------------------------------------------
+ From City:      [1]BAKERSFIELD (BK), population 31100, elevation 390
+ To City:        [19]WRIGHTWOOD (WW), population 9234, elevation 7910
+
+ The shortest distance from BAKERSFIELD to WRIGHTWOOD is 62
+ through the route: BAKERSFIELD [1] -> VINING [11] -> BOSSTOWN [2] -> GRPVE [8] -> WRIGHTWOOD [19]
